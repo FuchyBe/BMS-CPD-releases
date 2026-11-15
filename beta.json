@@ -1,8 +1,8 @@
 {
-  "version": "0.4.1-beta",
-  "url": "https://raw.githubusercontent.com/FuchyBe/BMS-CPD-releases/main/v0.4.1-beta/BMS-CPD.exe",
-  "sha256": "2363eb0f35f39bd19fad9ea48e6da8b6a4b39ef2b63ad17f9ab62ccb04d5c951",
-  "setup_url": "https://raw.githubusercontent.com/FuchyBe/BMS-CPD-releases/main/v0.4.1-beta/BMS-CPD-Setup-0.4.1-beta.exe",
-  "setup_sha256": "df0fbdd86220b01decbd48cde298f6afdcd964b24f1a4aa3b81fd8f7a9e40139",
-  "notes": "Lecture du fichier .ini de mission (DTC) : nom de la mission dans la barre d'état, plan affiché sur le TSD avant le vol (steerpoints, menaces, lignes L1–L4, terrains de dégagement)."
+  "version": "0.5.0-beta",
+  "url": "https://raw.githubusercontent.com/FuchyBe/BMS-CPD-releases/main/v0.5.0-beta/BMS-CPD.exe",
+  "sha256": "333751d45f4b59e9dfa635db082325ce6494699120b5eab4e1403a2900eb8685",
+  "setup_url": "https://raw.githubusercontent.com/FuchyBe/BMS-CPD-releases/main/v0.5.0-beta/BMS-CPD-Setup-0.5.0-beta.exe",
+  "setup_sha256": "d8d3a92f522e07324cde13017430c6b34fd1a52b4ec6a4b5e2924f674212aeb5",
+  "notes": "Nouveau bezel simplifié : 5 OSB en haut et en bas, 8 de chaque côté, une touche = un affichage ; RWR + EWS en 60/40 ; SET en bas d'écran avec retour automatique ; RET direct et mode nuit dans les angles droits ; HDG/CRS alignés sur la flèche ▼."
 }
