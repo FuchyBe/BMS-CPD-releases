@@ -1,8 +1,8 @@
 {
-  "version": "0.9.1-beta",
-  "url": "https://raw.githubusercontent.com/FuchyBe/BMS-CPD-releases/main/v0.9.1-beta/BMS-CPD.exe",
-  "sha256": "a35cbf1e01ac0a74af7563e8f96f4afc427a351349d058c541ed9e456d835645",
-  "setup_url": "https://raw.githubusercontent.com/FuchyBe/BMS-CPD-releases/main/v0.9.1-beta/BMS-CPD-Setup-0.9.1-beta.exe",
-  "setup_sha256": "27ad7fd3f40c7e63dab9e395e58a189bdf724ba9a519bc08839ba549a80170c0",
-  "notes": "Clavier partout, MAP OFF, trait STPT, cartes à l'appui long, aérodromes par distance"
+  "version": "0.9.2-beta",
+  "url": "https://raw.githubusercontent.com/FuchyBe/BMS-CPD-releases/main/v0.9.2-beta/BMS-CPD.exe",
+  "sha256": "0771742e5a0a2e29e6d27d0e77daef57bb940558f433e3076d20edcd98fd1cf0",
+  "setup_url": "https://raw.githubusercontent.com/FuchyBe/BMS-CPD-releases/main/v0.9.2-beta/BMS-CPD-Setup-0.9.2-beta.exe",
+  "setup_sha256": "2326582bc211272934926c1f958f8c5956b2e40a7a7a26d718952529abee6311",
+  "notes": "HSI : bloc NAV (STPT, ETE, ETA, carburant à l'arrivée)"
 }
