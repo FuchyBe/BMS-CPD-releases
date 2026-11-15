@@ -1,8 +1,8 @@
 {
-  "version": "0.7.7-beta",
-  "url": "https://raw.githubusercontent.com/FuchyBe/BMS-CPD-releases/main/v0.7.7-beta/BMS-CPD.exe",
-  "sha256": "11e416cdc9fe3f05c3840ed7c9363f84b2834b3956bf959408b0ca1657e07ddb",
-  "setup_url": "https://raw.githubusercontent.com/FuchyBe/BMS-CPD-releases/main/v0.7.7-beta/BMS-CPD-Setup-0.7.7-beta.exe",
-  "setup_sha256": "4006d2b98200a070471eddddfd651a671e9fca80969c8ccac3b799fad8f49a52",
-  "notes": "Une seule fenêtre CPD ; fermée pendant la mise à jour et à la fermeture"
+  "version": "0.7.8-beta",
+  "url": "https://raw.githubusercontent.com/FuchyBe/BMS-CPD-releases/main/v0.7.8-beta/BMS-CPD.exe",
+  "sha256": "fdcbd43f40174d6da653fbca8ad2c20bd874683ecacc6cd9962090c1811e0f2e",
+  "setup_url": "https://raw.githubusercontent.com/FuchyBe/BMS-CPD-releases/main/v0.7.8-beta/BMS-CPD-Setup-0.7.8-beta.exe",
+  "setup_sha256": "5bbe0d18ff381a7a6ab16035b0ff4920db0f0db22f91a2b3547888f3e6775e52",
+  "notes": "Manuel utilisateur illustré intégré (tablette, admin, menu Démarrer)"
 }
