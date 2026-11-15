@@ -1,8 +1,8 @@
 {
-  "version": "0.9.4-beta",
-  "url": "https://raw.githubusercontent.com/FuchyBe/BMS-CPD-releases/main/v0.9.4-beta/BMS-CPD.exe",
-  "sha256": "e823eb8ccc85ec09af280332385263dc2184332a343e4cfb3c676531c18f0178",
-  "setup_url": "https://raw.githubusercontent.com/FuchyBe/BMS-CPD-releases/main/v0.9.4-beta/BMS-CPD-Setup-0.9.4-beta.exe",
-  "setup_sha256": "37672f98dac107392f8e2e49a1993d067f256847d72ff9561dcfa465e99f76bc",
-  "notes": "Stabilité : fenêtres du navigateur, appels non bloquants, journal de plantage"
+  "version": "0.9.5-beta",
+  "url": "https://raw.githubusercontent.com/FuchyBe/BMS-CPD-releases/main/v0.9.5-beta/BMS-CPD.exe",
+  "sha256": "5087393ecf1119c3cd8b69831055dc7d55161e482fa24dac7addde444d8222ee",
+  "setup_url": "https://raw.githubusercontent.com/FuchyBe/BMS-CPD-releases/main/v0.9.5-beta/BMS-CPD-Setup-0.9.5-beta.exe",
+  "setup_sha256": "bc637d13b299295149b214df5766f54b2eae80981d4a04c07afbb40db8a37922",
+  "notes": "TSD : bullseye OWN / TGT, point radar, fonds à 40 %, DLINK"
 }
