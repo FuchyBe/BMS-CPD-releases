@@ -1,6 +1,8 @@
 {
-  "version": "0.3.0-beta",
-  "url": "https://raw.githubusercontent.com/FuchyBe/BMS-CPD-releases/main/v0.3.0-beta/BMS-CPD.exe",
-  "sha256": "1248ad13d185f90345b579755d3c60b991f11161d7512afd4b0451255ac469d7",
-  "notes": "Première version publiée sur GitHub : mise à jour automatique intégrée (canal beta). Contient aussi : checklist officielle BMS, jauge AOA en ruban, MFD FILL pour le TGP, TTG/ETA sur le TSD."
+  "version": "0.4.0-beta",
+  "url": "https://raw.githubusercontent.com/FuchyBe/BMS-CPD-releases/main/v0.4.0-beta/BMS-CPD.exe",
+  "sha256": "85d247371deb1b2400c842df2f8365aae3ea73f4ea1bffd70a67db96d70842af",
+  "setup_url": "https://raw.githubusercontent.com/FuchyBe/BMS-CPD-releases/main/v0.4.0-beta/BMS-CPD-Setup-0.4.0-beta.exe",
+  "setup_sha256": "33bcb1eb1d373c2bb4b72ff1ee319da8f0b731c39efc1e1e09af57702ce43597",
+  "notes": "Installateur Windows, icône dans la zone de notification (plus de console), admin dans sa fenêtre, CPD ouvert automatiquement sur la tablette, mode tactile Overlay (BMS garde le focus, la souris ne bouge pas), affichage adapté à toutes les tablettes en portrait."
 }
