@@ -1,8 +1,8 @@
 {
-  "version": "0.7.0-beta",
-  "url": "https://raw.githubusercontent.com/FuchyBe/BMS-CPD-releases/main/v0.7.0-beta/BMS-CPD.exe",
-  "sha256": "e67d8211d130def46db5bcb4d49906c81a7ef9ea749d4b2b4f1aae3b49a2bbde",
-  "setup_url": "https://raw.githubusercontent.com/FuchyBe/BMS-CPD-releases/main/v0.7.0-beta/BMS-CPD-Setup-0.7.0-beta.exe",
-  "setup_sha256": "7ede83503c9f39b2138bd57367568389f3dfcdf7c1ab7d9acfef5221840b1e9a",
-  "notes": "Interface simplifiée : admin avec menu (Accueil, Tablette, Théâtres, Falcon BMS, Groupe, Avancé) et SET en 4 onglets. Menu par théâtre pour choisir les cartes de fond VFR / BLANK du TSD, avec miniatures."
+  "version": "0.7.1-beta",
+  "url": "https://raw.githubusercontent.com/FuchyBe/BMS-CPD-releases/main/v0.7.1-beta/BMS-CPD.exe",
+  "sha256": "2c7d7430ffd7a23000edc8f42bbc4484c658f32087df84c3ed5797ac24cf80b9",
+  "setup_url": "https://raw.githubusercontent.com/FuchyBe/BMS-CPD-releases/main/v0.7.1-beta/BMS-CPD-Setup-0.7.1-beta.exe",
+  "setup_sha256": "9a4c07fe85cec9732932bb0e4ea37b0c606471e89d8d0a002492a9c902bcb3ca",
+  "notes": "Israel : les cartes ITO_UI_Map_Airports_4K et ITO_Map_4K sont calées pour le TSD."
 }
