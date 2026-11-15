@@ -1,8 +1,8 @@
 {
-  "version": "0.7.1-beta",
-  "url": "https://raw.githubusercontent.com/FuchyBe/BMS-CPD-releases/main/v0.7.1-beta/BMS-CPD.exe",
-  "sha256": "2c7d7430ffd7a23000edc8f42bbc4484c658f32087df84c3ed5797ac24cf80b9",
-  "setup_url": "https://raw.githubusercontent.com/FuchyBe/BMS-CPD-releases/main/v0.7.1-beta/BMS-CPD-Setup-0.7.1-beta.exe",
-  "setup_sha256": "9a4c07fe85cec9732932bb0e4ea37b0c606471e89d8d0a002492a9c902bcb3ca",
-  "notes": "Israel : les cartes ITO_UI_Map_Airports_4K et ITO_Map_4K sont calées pour le TSD."
+  "version": "0.7.2-beta",
+  "url": "https://raw.githubusercontent.com/FuchyBe/BMS-CPD-releases/main/v0.7.2-beta/BMS-CPD.exe",
+  "sha256": "87666d229e85e07b0ddf64d0a70b7f5ae9d816c045e3d627391d658b983e8dc7",
+  "setup_url": "https://raw.githubusercontent.com/FuchyBe/BMS-CPD-releases/main/v0.7.2-beta/BMS-CPD-Setup-0.7.2-beta.exe",
+  "setup_sha256": "b744ef780d4a3d1e5ebf89025bdadc1b3fd66a3393c267e1e3a0958b2325aeea",
+  "notes": "Cartes calées pour Hellas (HellasMap4K_Airports, HellasMap8K, HellasMap16K) et Balkans (Balkans_UI_Map_16K, Balkans_Map_1_4K), en plus d'Israel (0.7.1)."
 }
