@@ -1,6 +1,6 @@
 # BMS-CPD — Manuel / Manual
 
-Version 0.9.6-beta. Le manuel source est en français ; les autres langues sont des traductions assistées par IA (corrections bienvenues via Aide & retours).
+Version 0.9.7-beta. Le manuel source est en français ; les autres langues sont des traductions assistées par IA (corrections bienvenues via Aide & retours).
 The source manual is French; other languages are machine-assisted translations (corrections welcome via Help & feedback).
 
 | Langue / Language | PDF |
