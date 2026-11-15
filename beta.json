@@ -1,8 +1,8 @@
 {
-  "version": "0.5.1-beta",
-  "url": "https://raw.githubusercontent.com/FuchyBe/BMS-CPD-releases/main/v0.5.1-beta/BMS-CPD.exe",
-  "sha256": "a57b0d19412d70476a7d2bd4add8ed711a874d20408ef2c2d8435d8cadf59421",
-  "setup_url": "https://raw.githubusercontent.com/FuchyBe/BMS-CPD-releases/main/v0.5.1-beta/BMS-CPD-Setup-0.5.1-beta.exe",
-  "setup_sha256": "a0bdeb01bc2653220bdd0361311a3be0fb7b0609626727ad2448a417e081bc5a",
-  "notes": "TSD : bascule de carte BLANK / VFR par théâtre (choix dans SET › Cartes du TSD). HSI : HDG et CRS recentrés entre leurs flèches. ILS : glide, drapeaux GS/LOC et balises OM/MM sur HSI et STBY."
+  "version": "0.6.0-beta",
+  "url": "https://raw.githubusercontent.com/FuchyBe/BMS-CPD-releases/main/v0.6.0-beta/BMS-CPD.exe",
+  "sha256": "178aa2ade72ddbc8d718166d11c4775c756733b0a0df3ab1fe4990c31ab0b667",
+  "setup_url": "https://raw.githubusercontent.com/FuchyBe/BMS-CPD-releases/main/v0.6.0-beta/BMS-CPD-Setup-0.6.0-beta.exe",
+  "setup_sha256": "738a13b64e8a61a364c8dc1845175a227a0f850893b9fda0dfacb8e96998e70f",
+  "notes": "Groupe d'escadron (code + mot de passe, relais ntfy.sh ou dossier partagé, chiffré) : documents partagés (CHRT › SHRD), points et zones tactiques sur le TSD par appui long (dont CAP en hippodrome), 9-line CAS et scratchpad dans CHKL, tous modifiables et partageables. Clavier à l'écran. Appui long près d'un aéroport : cartes."
 }
