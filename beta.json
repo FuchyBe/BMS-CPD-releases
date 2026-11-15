@@ -1,8 +1,8 @@
 {
-  "version": "0.5.0-beta",
-  "url": "https://raw.githubusercontent.com/FuchyBe/BMS-CPD-releases/main/v0.5.0-beta/BMS-CPD.exe",
-  "sha256": "333751d45f4b59e9dfa635db082325ce6494699120b5eab4e1403a2900eb8685",
-  "setup_url": "https://raw.githubusercontent.com/FuchyBe/BMS-CPD-releases/main/v0.5.0-beta/BMS-CPD-Setup-0.5.0-beta.exe",
-  "setup_sha256": "d8d3a92f522e07324cde13017430c6b34fd1a52b4ec6a4b5e2924f674212aeb5",
-  "notes": "Nouveau bezel simplifié : 5 OSB en haut et en bas, 8 de chaque côté, une touche = un affichage ; RWR + EWS en 60/40 ; SET en bas d'écran avec retour automatique ; RET direct et mode nuit dans les angles droits ; HDG/CRS alignés sur la flèche ▼."
+  "version": "0.5.1-beta",
+  "url": "https://raw.githubusercontent.com/FuchyBe/BMS-CPD-releases/main/v0.5.1-beta/BMS-CPD.exe",
+  "sha256": "a57b0d19412d70476a7d2bd4add8ed711a874d20408ef2c2d8435d8cadf59421",
+  "setup_url": "https://raw.githubusercontent.com/FuchyBe/BMS-CPD-releases/main/v0.5.1-beta/BMS-CPD-Setup-0.5.1-beta.exe",
+  "setup_sha256": "a0bdeb01bc2653220bdd0361311a3be0fb7b0609626727ad2448a417e081bc5a",
+  "notes": "TSD : bascule de carte BLANK / VFR par théâtre (choix dans SET › Cartes du TSD). HSI : HDG et CRS recentrés entre leurs flèches. ILS : glide, drapeaux GS/LOC et balises OM/MM sur HSI et STBY."
 }
