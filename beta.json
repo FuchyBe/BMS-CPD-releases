@@ -1,8 +1,8 @@
 {
-  "version": "0.7.4-beta",
-  "url": "https://raw.githubusercontent.com/FuchyBe/BMS-CPD-releases/main/v0.7.4-beta/BMS-CPD.exe",
-  "sha256": "520888d8e0b9cdaabc87e62b9d2ff0e60efe362d987d6d015c464cc7f4eccac4",
-  "setup_url": "https://raw.githubusercontent.com/FuchyBe/BMS-CPD-releases/main/v0.7.4-beta/BMS-CPD-Setup-0.7.4-beta.exe",
-  "setup_sha256": "d2c694f1fc52f56de8d16880a2745f0014c4c8d01f833663ae832d4c16132734",
-  "notes": "Admin › Aide & retours : signaler un bug (journal, réglages anonymisés, capture) ou proposer une amélioration ; envoi chiffré."
+  "version": "0.7.5-beta",
+  "url": "https://raw.githubusercontent.com/FuchyBe/BMS-CPD-releases/main/v0.7.5-beta/BMS-CPD.exe",
+  "sha256": "4136c4a84b78124cb5cb25ea69ae9b09485fe69b7835528fccce75037305b40d",
+  "setup_url": "https://raw.githubusercontent.com/FuchyBe/BMS-CPD-releases/main/v0.7.5-beta/BMS-CPD-Setup-0.7.5-beta.exe",
+  "setup_sha256": "7f70c756ee22f5140258b786f5ed8c701241ff2b000825f139a09d462545de7f",
+  "notes": "Correctif : icône CPD qui clignote dans la barre des tâches et OSB du bas inaccessibles"
 }
