@@ -1,8 +1,8 @@
 {
-  "version": "0.8.0-beta",
-  "url": "https://raw.githubusercontent.com/FuchyBe/BMS-CPD-releases/main/v0.8.0-beta/BMS-CPD.exe",
-  "sha256": "b1fbe75142761225445ff57744067db05616a488b9ef7ce021c6aca66d855054",
-  "setup_url": "https://raw.githubusercontent.com/FuchyBe/BMS-CPD-releases/main/v0.8.0-beta/BMS-CPD-Setup-0.8.0-beta.exe",
-  "setup_sha256": "b024070291b0453e9c888a52aa8488d2075199262c7f826508f3ea8c07278ab5",
-  "notes": "EWS informatif (rubans CHAFF/FLARE et tuiles), sans OSB"
+  "version": "0.8.1-beta",
+  "url": "https://raw.githubusercontent.com/FuchyBe/BMS-CPD-releases/main/v0.8.1-beta/BMS-CPD.exe",
+  "sha256": "4fab9d8f19dbddaf506f329f6341567b5f69dc9f9342ab97cb7bbfd67b0f3487",
+  "setup_url": "https://raw.githubusercontent.com/FuchyBe/BMS-CPD-releases/main/v0.8.1-beta/BMS-CPD-Setup-0.8.1-beta.exe",
+  "setup_sha256": "84cefe2cd840606170e398e9c0a9ea6a3fce3c2d78130fbb8df005f79deeb65f",
+  "notes": "Bouton Soutenir le projet (don PayPal)"
 }
