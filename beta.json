@@ -1,8 +1,8 @@
 {
-  "version": "0.7.8-beta",
-  "url": "https://raw.githubusercontent.com/FuchyBe/BMS-CPD-releases/main/v0.7.8-beta/BMS-CPD.exe",
-  "sha256": "fdcbd43f40174d6da653fbca8ad2c20bd874683ecacc6cd9962090c1811e0f2e",
-  "setup_url": "https://raw.githubusercontent.com/FuchyBe/BMS-CPD-releases/main/v0.7.8-beta/BMS-CPD-Setup-0.7.8-beta.exe",
-  "setup_sha256": "5bbe0d18ff381a7a6ab16035b0ff4920db0f0db22f91a2b3547888f3e6775e52",
-  "notes": "Manuel utilisateur illustré intégré (tablette, admin, menu Démarrer)"
+  "version": "0.7.9-beta",
+  "url": "https://raw.githubusercontent.com/FuchyBe/BMS-CPD-releases/main/v0.7.9-beta/BMS-CPD.exe",
+  "sha256": "2aff4d175df7f3052110f426f059b3f6b3eb79a11607c7ee9c0c18d76ad3f24a",
+  "setup_url": "https://raw.githubusercontent.com/FuchyBe/BMS-CPD-releases/main/v0.7.9-beta/BMS-CPD-Setup-0.7.9-beta.exe",
+  "setup_sha256": "76c45fd90aad5fe8ce67543e09a5cf0c5409494a0382cc8db9827adc5f619aec",
+  "notes": "Navigation BACK/RET, cartes d'aéroport, symbologie TSD, documents par mission, fin de mission"
 }
