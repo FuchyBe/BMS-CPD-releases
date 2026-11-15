@@ -1,8 +1,8 @@
 {
-  "version": "0.7.6-beta",
-  "url": "https://raw.githubusercontent.com/FuchyBe/BMS-CPD-releases/main/v0.7.6-beta/BMS-CPD.exe",
-  "sha256": "c69fc992e1659174a76be5a5ddfb39ab9f01f27eea59d22b5c9a835645e244ae",
-  "setup_url": "https://raw.githubusercontent.com/FuchyBe/BMS-CPD-releases/main/v0.7.6-beta/BMS-CPD-Setup-0.7.6-beta.exe",
-  "setup_sha256": "8fabbcb3796b7477c0fed5ee6426655de7bc175ce9f81fd0e328e8ca0615e12b",
-  "notes": "Appuis tablette fiabilisés, ouverture sur le TSD"
+  "version": "0.7.7-beta",
+  "url": "https://raw.githubusercontent.com/FuchyBe/BMS-CPD-releases/main/v0.7.7-beta/BMS-CPD.exe",
+  "sha256": "11e416cdc9fe3f05c3840ed7c9363f84b2834b3956bf959408b0ca1657e07ddb",
+  "setup_url": "https://raw.githubusercontent.com/FuchyBe/BMS-CPD-releases/main/v0.7.7-beta/BMS-CPD-Setup-0.7.7-beta.exe",
+  "setup_sha256": "4006d2b98200a070471eddddfd651a671e9fca80969c8ccac3b799fad8f49a52",
+  "notes": "Une seule fenêtre CPD ; fermée pendant la mise à jour et à la fermeture"
 }
