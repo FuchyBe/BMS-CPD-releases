@@ -1,8 +1,8 @@
 {
-  "version": "0.6.0-beta",
-  "url": "https://raw.githubusercontent.com/FuchyBe/BMS-CPD-releases/main/v0.6.0-beta/BMS-CPD.exe",
-  "sha256": "178aa2ade72ddbc8d718166d11c4775c756733b0a0df3ab1fe4990c31ab0b667",
-  "setup_url": "https://raw.githubusercontent.com/FuchyBe/BMS-CPD-releases/main/v0.6.0-beta/BMS-CPD-Setup-0.6.0-beta.exe",
-  "setup_sha256": "738a13b64e8a61a364c8dc1845175a227a0f850893b9fda0dfacb8e96998e70f",
-  "notes": "Groupe d'escadron (code + mot de passe, relais ntfy.sh ou dossier partagé, chiffré) : documents partagés (CHRT › SHRD), points et zones tactiques sur le TSD par appui long (dont CAP en hippodrome), 9-line CAS et scratchpad dans CHKL, tous modifiables et partageables. Clavier à l'écran. Appui long près d'un aéroport : cartes."
+  "version": "0.6.1-beta",
+  "url": "https://raw.githubusercontent.com/FuchyBe/BMS-CPD-releases/main/v0.6.1-beta/BMS-CPD.exe",
+  "sha256": "49169b6c1356b2ff78f69d05adc93514ef554e954215748b34db615ca391582d",
+  "setup_url": "https://raw.githubusercontent.com/FuchyBe/BMS-CPD-releases/main/v0.6.1-beta/BMS-CPD-Setup-0.6.1-beta.exe",
+  "setup_sha256": "fcba497522e62590ba49ed8fa51cdb05437935f755c80907672ffc2a138593a1",
+  "notes": "Admin : attribution automatique des touches manquantes du fichier .key (aperçu, sauvegarde datée, vérification, restauration en un clic ; BMS doit être fermé)."
 }
