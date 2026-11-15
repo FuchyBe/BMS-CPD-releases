@@ -1,8 +1,8 @@
 {
-  "version": "0.8.1-beta",
-  "url": "https://raw.githubusercontent.com/FuchyBe/BMS-CPD-releases/main/v0.8.1-beta/BMS-CPD.exe",
-  "sha256": "4fab9d8f19dbddaf506f329f6341567b5f69dc9f9342ab97cb7bbfd67b0f3487",
-  "setup_url": "https://raw.githubusercontent.com/FuchyBe/BMS-CPD-releases/main/v0.8.1-beta/BMS-CPD-Setup-0.8.1-beta.exe",
-  "setup_sha256": "84cefe2cd840606170e398e9c0a9ea6a3fce3c2d78130fbb8df005f79deeb65f",
-  "notes": "Bouton Soutenir le projet (don PayPal)"
+  "version": "0.9.0-beta",
+  "url": "https://raw.githubusercontent.com/FuchyBe/BMS-CPD-releases/main/v0.9.0-beta/BMS-CPD.exe",
+  "sha256": "b1201ca704e5064d39df3716a607f25808004f8e4319726f39d7b49e840159a2",
+  "setup_url": "https://raw.githubusercontent.com/FuchyBe/BMS-CPD-releases/main/v0.9.0-beta/BMS-CPD-Setup-0.9.0-beta.exe",
+  "setup_sha256": "5a4918274e1089fd17f6aa862dcd18767d9b7543b754fc9217bbb11d3a9d7996",
+  "notes": "Interface et manuel en 10 langues, manuel en ligne"
 }
