@@ -1,0 +1,6 @@
+{
+  "version": "0.3.0-beta",
+  "url": "https://raw.githubusercontent.com/FuchyBe/BMS-CPD-releases/main/v0.3.0-beta/BMS-CPD.exe",
+  "sha256": "1248ad13d185f90345b579755d3c60b991f11161d7512afd4b0451255ac469d7",
+  "notes": "Première version publiée sur GitHub : mise à jour automatique intégrée (canal beta). Contient aussi : checklist officielle BMS, jauge AOA en ruban, MFD FILL pour le TGP, TTG/ETA sur le TSD."
+}
