@@ -1,8 +1,8 @@
 {
-  "version": "0.7.3-beta",
-  "url": "https://raw.githubusercontent.com/FuchyBe/BMS-CPD-releases/main/v0.7.3-beta/BMS-CPD.exe",
-  "sha256": "89df8af28521eada0865195e61bcbe856eb3fa31b13bd3482dacf6ff95e5bfbe",
-  "setup_url": "https://raw.githubusercontent.com/FuchyBe/BMS-CPD-releases/main/v0.7.3-beta/BMS-CPD-Setup-0.7.3-beta.exe",
-  "setup_sha256": "f3a50b5a45edbc4e84c1b4b2f603ce64cd23487e57476b88e025cc168b04ac48",
-  "notes": "Après une mise à jour, la tablette se recharge toute seule avec la nouvelle version."
+  "version": "0.7.4-beta",
+  "url": "https://raw.githubusercontent.com/FuchyBe/BMS-CPD-releases/main/v0.7.4-beta/BMS-CPD.exe",
+  "sha256": "520888d8e0b9cdaabc87e62b9d2ff0e60efe362d987d6d015c464cc7f4eccac4",
+  "setup_url": "https://raw.githubusercontent.com/FuchyBe/BMS-CPD-releases/main/v0.7.4-beta/BMS-CPD-Setup-0.7.4-beta.exe",
+  "setup_sha256": "d2c694f1fc52f56de8d16880a2745f0014c4c8d01f833663ae832d4c16132734",
+  "notes": "Admin › Aide & retours : signaler un bug (journal, réglages anonymisés, capture) ou proposer une amélioration ; envoi chiffré."
 }
