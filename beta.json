@@ -1,8 +1,8 @@
 {
-  "version": "0.9.2-beta",
-  "url": "https://raw.githubusercontent.com/FuchyBe/BMS-CPD-releases/main/v0.9.2-beta/BMS-CPD.exe",
-  "sha256": "0771742e5a0a2e29e6d27d0e77daef57bb940558f433e3076d20edcd98fd1cf0",
-  "setup_url": "https://raw.githubusercontent.com/FuchyBe/BMS-CPD-releases/main/v0.9.2-beta/BMS-CPD-Setup-0.9.2-beta.exe",
-  "setup_sha256": "2326582bc211272934926c1f958f8c5956b2e40a7a7a26d718952529abee6311",
-  "notes": "HSI : bloc NAV (STPT, ETE, ETA, carburant à l'arrivée)"
+  "version": "0.9.3-beta",
+  "url": "https://raw.githubusercontent.com/FuchyBe/BMS-CPD-releases/main/v0.9.3-beta/BMS-CPD.exe",
+  "sha256": "7c90ba68f59bddb8f4809e9757f729f36a297437c8aed787f9748d4631a69035",
+  "setup_url": "https://raw.githubusercontent.com/FuchyBe/BMS-CPD-releases/main/v0.9.3-beta/BMS-CPD-Setup-0.9.3-beta.exe",
+  "setup_sha256": "a5012884b5b37282b3e5d0243796c86e33d4f4dc6562b459a13ee9f6bd27c23d",
+  "notes": "Zones tactiles OSB +150 %, sans touche MODE, datalink dans la carte"
 }
