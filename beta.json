@@ -1,8 +1,8 @@
 {
-  "version": "0.9.6-beta",
-  "url": "https://raw.githubusercontent.com/FuchyBe/BMS-CPD-releases/main/v0.9.6-beta/BMS-CPD.exe",
-  "sha256": "71342c0fa40de4e4d1f11d065edb9f472d22f93c7d4042605fc5220bd44fc45c",
-  "setup_url": "https://raw.githubusercontent.com/FuchyBe/BMS-CPD-releases/main/v0.9.6-beta/BMS-CPD-Setup-0.9.6-beta.exe",
-  "setup_sha256": "07e8157bb4989c609af47d4030a95caa5c1a4b15b404ce01838109d62962224c",
-  "notes": "Page DOC à la place de l'EWS, TGT retiré, manuel 10 langues"
+  "version": "0.9.7-beta",
+  "url": "https://raw.githubusercontent.com/FuchyBe/BMS-CPD-releases/main/v0.9.7-beta/BMS-CPD.exe",
+  "sha256": "00d3e6a57afb949be1c9660a3f3b4af59ef94b14b6ee12bfdfa895c408c85bd9",
+  "setup_url": "https://raw.githubusercontent.com/FuchyBe/BMS-CPD-releases/main/v0.9.7-beta/BMS-CPD-Setup-0.9.7-beta.exe",
+  "setup_sha256": "c397bdddbbd0cd861f053d5c8dbd8b04c75bb3bba236dfb8fe0e4c50ad705be6",
+  "notes": "Cercles de menace pilotés par le RWR (SEARCH / LAUNCH), DLINK sans AWACS"
 }
