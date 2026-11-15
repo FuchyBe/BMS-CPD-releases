@@ -1,8 +1,8 @@
 {
-  "version": "0.9.0-beta",
-  "url": "https://raw.githubusercontent.com/FuchyBe/BMS-CPD-releases/main/v0.9.0-beta/BMS-CPD.exe",
-  "sha256": "b1201ca704e5064d39df3716a607f25808004f8e4319726f39d7b49e840159a2",
-  "setup_url": "https://raw.githubusercontent.com/FuchyBe/BMS-CPD-releases/main/v0.9.0-beta/BMS-CPD-Setup-0.9.0-beta.exe",
-  "setup_sha256": "5a4918274e1089fd17f6aa862dcd18767d9b7543b754fc9217bbb11d3a9d7996",
-  "notes": "Interface et manuel en 10 langues, manuel en ligne"
+  "version": "0.9.1-beta",
+  "url": "https://raw.githubusercontent.com/FuchyBe/BMS-CPD-releases/main/v0.9.1-beta/BMS-CPD.exe",
+  "sha256": "a35cbf1e01ac0a74af7563e8f96f4afc427a351349d058c541ed9e456d835645",
+  "setup_url": "https://raw.githubusercontent.com/FuchyBe/BMS-CPD-releases/main/v0.9.1-beta/BMS-CPD-Setup-0.9.1-beta.exe",
+  "setup_sha256": "27ad7fd3f40c7e63dab9e395e58a189bdf724ba9a519bc08839ba549a80170c0",
+  "notes": "Clavier partout, MAP OFF, trait STPT, cartes à l'appui long, aérodromes par distance"
 }
