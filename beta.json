@@ -1,8 +1,8 @@
 {
-  "version": "0.6.1-beta",
-  "url": "https://raw.githubusercontent.com/FuchyBe/BMS-CPD-releases/main/v0.6.1-beta/BMS-CPD.exe",
-  "sha256": "49169b6c1356b2ff78f69d05adc93514ef554e954215748b34db615ca391582d",
-  "setup_url": "https://raw.githubusercontent.com/FuchyBe/BMS-CPD-releases/main/v0.6.1-beta/BMS-CPD-Setup-0.6.1-beta.exe",
-  "setup_sha256": "fcba497522e62590ba49ed8fa51cdb05437935f755c80907672ffc2a138593a1",
-  "notes": "Admin : attribution automatique des touches manquantes du fichier .key (aperçu, sauvegarde datée, vérification, restauration en un clic ; BMS doit être fermé)."
+  "version": "0.6.2-beta",
+  "url": "https://raw.githubusercontent.com/FuchyBe/BMS-CPD-releases/main/v0.6.2-beta/BMS-CPD.exe",
+  "sha256": "c7a6c5b57a15e765e3b5148d42d075ebadf60b4ad56ec8b01b26dd9c9419b13f",
+  "setup_url": "https://raw.githubusercontent.com/FuchyBe/BMS-CPD-releases/main/v0.6.2-beta/BMS-CPD-Setup-0.6.2-beta.exe",
+  "setup_sha256": "72649f2177f1804779b2cc978d06f99162eec35d67925e4869ba041efdb63a28",
+  "notes": "Écran étendu : la fenêtre du CPD ne clignote plus dans la barre des tâches et couvre tout l'écran de la tablette ; les OSB du bas restent accessibles."
 }
