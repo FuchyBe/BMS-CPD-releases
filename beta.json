@@ -1,8 +1,8 @@
 {
-  "version": "0.7.9-beta",
-  "url": "https://raw.githubusercontent.com/FuchyBe/BMS-CPD-releases/main/v0.7.9-beta/BMS-CPD.exe",
-  "sha256": "2aff4d175df7f3052110f426f059b3f6b3eb79a11607c7ee9c0c18d76ad3f24a",
-  "setup_url": "https://raw.githubusercontent.com/FuchyBe/BMS-CPD-releases/main/v0.7.9-beta/BMS-CPD-Setup-0.7.9-beta.exe",
-  "setup_sha256": "76c45fd90aad5fe8ce67543e09a5cf0c5409494a0382cc8db9827adc5f619aec",
-  "notes": "Navigation BACK/RET, cartes d'aéroport, symbologie TSD, documents par mission, fin de mission"
+  "version": "0.8.0-beta",
+  "url": "https://raw.githubusercontent.com/FuchyBe/BMS-CPD-releases/main/v0.8.0-beta/BMS-CPD.exe",
+  "sha256": "b1fbe75142761225445ff57744067db05616a488b9ef7ce021c6aca66d855054",
+  "setup_url": "https://raw.githubusercontent.com/FuchyBe/BMS-CPD-releases/main/v0.8.0-beta/BMS-CPD-Setup-0.8.0-beta.exe",
+  "setup_sha256": "b024070291b0453e9c888a52aa8488d2075199262c7f826508f3ea8c07278ab5",
+  "notes": "EWS informatif (rubans CHAFF/FLARE et tuiles), sans OSB"
 }
