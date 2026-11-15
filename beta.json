@@ -1,8 +1,8 @@
 {
-  "version": "0.7.5-beta",
-  "url": "https://raw.githubusercontent.com/FuchyBe/BMS-CPD-releases/main/v0.7.5-beta/BMS-CPD.exe",
-  "sha256": "4136c4a84b78124cb5cb25ea69ae9b09485fe69b7835528fccce75037305b40d",
-  "setup_url": "https://raw.githubusercontent.com/FuchyBe/BMS-CPD-releases/main/v0.7.5-beta/BMS-CPD-Setup-0.7.5-beta.exe",
-  "setup_sha256": "7f70c756ee22f5140258b786f5ed8c701241ff2b000825f139a09d462545de7f",
-  "notes": "Correctif : icône CPD qui clignote dans la barre des tâches et OSB du bas inaccessibles"
+  "version": "0.7.6-beta",
+  "url": "https://raw.githubusercontent.com/FuchyBe/BMS-CPD-releases/main/v0.7.6-beta/BMS-CPD.exe",
+  "sha256": "c69fc992e1659174a76be5a5ddfb39ab9f01f27eea59d22b5c9a835645e244ae",
+  "setup_url": "https://raw.githubusercontent.com/FuchyBe/BMS-CPD-releases/main/v0.7.6-beta/BMS-CPD-Setup-0.7.6-beta.exe",
+  "setup_sha256": "8fabbcb3796b7477c0fed5ee6426655de7bc175ce9f81fd0e328e8ca0615e12b",
+  "notes": "Appuis tablette fiabilisés, ouverture sur le TSD"
 }
