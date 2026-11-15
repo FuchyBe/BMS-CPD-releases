@@ -1,8 +1,8 @@
 {
-  "version": "0.7.2-beta",
-  "url": "https://raw.githubusercontent.com/FuchyBe/BMS-CPD-releases/main/v0.7.2-beta/BMS-CPD.exe",
-  "sha256": "87666d229e85e07b0ddf64d0a70b7f5ae9d816c045e3d627391d658b983e8dc7",
-  "setup_url": "https://raw.githubusercontent.com/FuchyBe/BMS-CPD-releases/main/v0.7.2-beta/BMS-CPD-Setup-0.7.2-beta.exe",
-  "setup_sha256": "b744ef780d4a3d1e5ebf89025bdadc1b3fd66a3393c267e1e3a0958b2325aeea",
-  "notes": "Cartes calées pour Hellas (HellasMap4K_Airports, HellasMap8K, HellasMap16K) et Balkans (Balkans_UI_Map_16K, Balkans_Map_1_4K), en plus d'Israel (0.7.1)."
+  "version": "0.7.3-beta",
+  "url": "https://raw.githubusercontent.com/FuchyBe/BMS-CPD-releases/main/v0.7.3-beta/BMS-CPD.exe",
+  "sha256": "89df8af28521eada0865195e61bcbe856eb3fa31b13bd3482dacf6ff95e5bfbe",
+  "setup_url": "https://raw.githubusercontent.com/FuchyBe/BMS-CPD-releases/main/v0.7.3-beta/BMS-CPD-Setup-0.7.3-beta.exe",
+  "setup_sha256": "f3a50b5a45edbc4e84c1b4b2f603ce64cd23487e57476b88e025cc168b04ac48",
+  "notes": "Après une mise à jour, la tablette se recharge toute seule avec la nouvelle version."
 }
