@@ -1,8 +1,8 @@
 {
-  "version": "0.9.12-beta",
-  "url": "https://raw.githubusercontent.com/FuchyBe/BMS-CPD-releases/main/v0.9.12-beta/BMS-CPD.exe",
-  "sha256": "e29637d2e17a7005d99a5f2fe05e3111936684c4c306d97fbcd87ef0d28ae5af",
-  "setup_url": "https://raw.githubusercontent.com/FuchyBe/BMS-CPD-releases/main/v0.9.12-beta/BMS-CPD-Setup-0.9.12-beta.exe",
-  "setup_sha256": "64e523688f47cd2e00838226cfa304017a005539ccb63c60c6c6314f6f563d24",
-  "notes": "MFD en vue FILL : image agrandie pour que les libellés des OSB du MFD passent sous le cadre (vidéo TGP, réticule, distance et coordonnées gardés). MAG (R4) règle l'agrandissement selon la tablette : + R3 / − R5, MAG à nouveau enregistre. Manuel à jour."
+  "version": "0.9.13-beta",
+  "url": "https://raw.githubusercontent.com/FuchyBe/BMS-CPD-releases/main/v0.9.13-beta/BMS-CPD.exe",
+  "sha256": "a1b88f8f565a232dcfa047c89b419fb49a6e616d72b544e42023fb9cd1dee63e",
+  "setup_url": "https://raw.githubusercontent.com/FuchyBe/BMS-CPD-releases/main/v0.9.13-beta/BMS-CPD-Setup-0.9.13-beta.exe",
+  "setup_sha256": "dd2d76a970b0956e7c953c9f93c0a834d61308b682407eebfd7aa579a2bfb288",
+  "notes": "Compatible iPad (Safari, Wi-Fi) : reconnu automatiquement, écran gardé allumé, clavier du CPD à la place du clavier système. Plein écran : Partager › Sur l'écran d'accueil. Option Tablette dans SET › AFFICHAGE. Manuel à jour."
 }
