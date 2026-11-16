@@ -1,12 +1,17 @@
 {
-  "version": "0.9.17",
-  "url": "https://raw.githubusercontent.com/FuchyBe/BMS-CPD-releases/main/v0.9.17/BMS-CPD.exe",
-  "sha256": "7ec94b2ac4dae356c600d797461e4dfa50001cb90a93f18a3d51555683c9d6a9",
-  "setup_url": "https://raw.githubusercontent.com/FuchyBe/BMS-CPD-releases/main/v0.9.17/BMS-CPD-Setup-0.9.17.exe",
-  "setup_sha256": "f72be1a1bbefed96d90375577ca08455e16f0235ede484bc370060454acef40e",
-  "notes": "TSD : l'appui court sur BULLS affiche ou masque le bullseye de la mission ; les contacts BULLS suivent OBJ. Manuel à jour.",
+  "version": "0.9.18",
+  "url": "https://raw.githubusercontent.com/FuchyBe/BMS-CPD-releases/main/v0.9.18/BMS-CPD.exe",
+  "sha256": "062f40a8da1cdf13087f4a3696a50c5cb630aa0761469267963d91c291ed9275",
+  "setup_url": "https://raw.githubusercontent.com/FuchyBe/BMS-CPD-releases/main/v0.9.18/BMS-CPD-Setup-0.9.18.exe",
+  "setup_sha256": "033e876b19a4137eb3aa8f638633e81335a5753ffd4c0c62afa7115065e0e3ad",
+  "notes": "Page TOLD (BRIEF › L2) : décollage et atterrissage préremplis depuis le briefing et BMS, 3 modèles (carte, cockpit, graphique) au choix dans l'administration, distances apprises en vol. Manuel à jour.",
   "date": "2026-11-16",
   "changelog": [
+    {
+      "version": "0.9.18",
+      "date": "2026-11-16",
+      "notes": "Page TOLD (BRIEF › L2) : décollage et atterrissage préremplis depuis le briefing et BMS, 3 modèles (carte, cockpit, graphique) au choix dans l'administration, distances apprises en vol. Manuel à jour."
+    },
     {
       "version": "0.9.17",
       "date": "2026-11-16",
