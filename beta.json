@@ -1,12 +1,17 @@
 {
-  "version": "0.9.15",
-  "url": "https://raw.githubusercontent.com/FuchyBe/BMS-CPD-releases/main/v0.9.15/BMS-CPD.exe",
-  "sha256": "432346d3d50a754a8448101d71ce1b3f0cb5fd84452243322b22e044579b3421",
-  "setup_url": "https://raw.githubusercontent.com/FuchyBe/BMS-CPD-releases/main/v0.9.15/BMS-CPD-Setup-0.9.15.exe",
-  "setup_sha256": "2d10d29fc5204df38883195534fcff32a11dfff473e6a71ef6752e39bde5fb34",
-  "notes": "Calage automatique des cartes d'un théâtre en d'autres résolutions (ex. 1_KTO_4k_Blank et 2_KTO_4k_Airports d'après la 16K Skyvector), mis à l'échelle. Manuel à jour.",
+  "version": "0.9.16",
+  "url": "https://raw.githubusercontent.com/FuchyBe/BMS-CPD-releases/main/v0.9.16/BMS-CPD.exe",
+  "sha256": "b3491c90633cd57502604b40ab67a67c3599b9b687d8104bc48ba70c6f4a51b2",
+  "setup_url": "https://raw.githubusercontent.com/FuchyBe/BMS-CPD-releases/main/v0.9.16/BMS-CPD-Setup-0.9.16.exe",
+  "setup_sha256": "a9f4167e9919256735aa2af31901db2aa934592e361c79cffea576fc22f60049",
+  "notes": "TSD : touche BULLS (contact saisi au bullseye, avion rouge), anneaux RING tous les 20 NM. CHKL : s'ouvre sur les checklists, EMER rayée rouge et blanc, NOTE · 9LN · CHK à gauche, 9LN vierge. Manuel à jour.",
   "date": "2026-11-16",
   "changelog": [
+    {
+      "version": "0.9.16",
+      "date": "2026-11-16",
+      "notes": "TSD : touche BULLS (contact saisi au bullseye, avion rouge), anneaux RING tous les 20 NM. CHKL : s'ouvre sur les checklists, EMER rayée rouge et blanc, NOTE · 9LN · CHK à gauche, 9LN vierge. Manuel à jour."
+    },
     {
       "version": "0.9.15",
       "date": "2026-11-16",
