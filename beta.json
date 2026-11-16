@@ -1,9 +1,9 @@
 {
   "version": "0.9.14-beta",
   "url": "https://raw.githubusercontent.com/FuchyBe/BMS-CPD-releases/main/v0.9.14-beta/BMS-CPD.exe",
-  "sha256": "e8bd11d076f3bfc30f88a16df0b949f489beb9d8b70a5f4e03fa6a5b2de60146",
+  "sha256": "bb12d39404b633d3b179f4866b91acfd23303d140fed7b3d30deb6f3d7e03c94",
   "setup_url": "https://raw.githubusercontent.com/FuchyBe/BMS-CPD-releases/main/v0.9.14-beta/BMS-CPD-Setup-0.9.14-beta.exe",
-  "setup_sha256": "9d0d9f07b3d9c23f2609bd661e98ba84b6972d51a46b75e3f3eb85913fbb44ff",
+  "setup_sha256": "c9e9e383916a976c796fef87b93e81666bb8d10aabb29039e81c2f89d18c3980",
   "notes": "Nouvel ordre des touches (en haut TSD · HSI · STBY · MFD · RWR, en bas BRIEF · CHKL · CHRT · KNBD · SET). Nouvelle administration claire / sombre. Fenêtre de mise à jour : notes, téléchargement avec progression, installation, redémarrage. Nettoyage et optimisations : MFD qui ne se figent plus, réglages MFD appliqués, réponses compressées.",
   "date": "2026-11-16",
   "changelog": [
