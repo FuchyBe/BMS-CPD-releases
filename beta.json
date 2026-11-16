@@ -1,12 +1,17 @@
 {
-  "version": "0.9.14-beta",
-  "url": "https://raw.githubusercontent.com/FuchyBe/BMS-CPD-releases/main/v0.9.14-beta/BMS-CPD.exe",
-  "sha256": "bb12d39404b633d3b179f4866b91acfd23303d140fed7b3d30deb6f3d7e03c94",
-  "setup_url": "https://raw.githubusercontent.com/FuchyBe/BMS-CPD-releases/main/v0.9.14-beta/BMS-CPD-Setup-0.9.14-beta.exe",
-  "setup_sha256": "c9e9e383916a976c796fef87b93e81666bb8d10aabb29039e81c2f89d18c3980",
-  "notes": "Nouvel ordre des touches (en haut TSD · HSI · STBY · MFD · RWR, en bas BRIEF · CHKL · CHRT · KNBD · SET). Nouvelle administration claire / sombre. Fenêtre de mise à jour : notes, téléchargement avec progression, installation, redémarrage. Nettoyage et optimisations : MFD qui ne se figent plus, réglages MFD appliqués, réponses compressées.",
+  "version": "0.9.15",
+  "url": "https://raw.githubusercontent.com/FuchyBe/BMS-CPD-releases/main/v0.9.15/BMS-CPD.exe",
+  "sha256": "432346d3d50a754a8448101d71ce1b3f0cb5fd84452243322b22e044579b3421",
+  "setup_url": "https://raw.githubusercontent.com/FuchyBe/BMS-CPD-releases/main/v0.9.15/BMS-CPD-Setup-0.9.15.exe",
+  "setup_sha256": "2d10d29fc5204df38883195534fcff32a11dfff473e6a71ef6752e39bde5fb34",
+  "notes": "Calage automatique des cartes d'un théâtre en d'autres résolutions (ex. 1_KTO_4k_Blank et 2_KTO_4k_Airports d'après la 16K Skyvector), mis à l'échelle. Manuel à jour.",
   "date": "2026-11-16",
   "changelog": [
+    {
+      "version": "0.9.15",
+      "date": "2026-11-16",
+      "notes": "Calage automatique des cartes d'un théâtre en d'autres résolutions (ex. 1_KTO_4k_Blank et 2_KTO_4k_Airports d'après la 16K Skyvector), mis à l'échelle. Manuel à jour."
+    },
     {
       "version": "0.9.14-beta",
       "date": "2026-11-16",
