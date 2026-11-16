@@ -1,12 +1,17 @@
 {
-  "version": "0.9.16",
-  "url": "https://raw.githubusercontent.com/FuchyBe/BMS-CPD-releases/main/v0.9.16/BMS-CPD.exe",
-  "sha256": "b3491c90633cd57502604b40ab67a67c3599b9b687d8104bc48ba70c6f4a51b2",
-  "setup_url": "https://raw.githubusercontent.com/FuchyBe/BMS-CPD-releases/main/v0.9.16/BMS-CPD-Setup-0.9.16.exe",
-  "setup_sha256": "a9f4167e9919256735aa2af31901db2aa934592e361c79cffea576fc22f60049",
-  "notes": "TSD : touche BULLS (contact saisi au bullseye, avion rouge), anneaux RING tous les 20 NM. CHKL : s'ouvre sur les checklists, EMER rayée rouge et blanc, NOTE · 9LN · CHK à gauche, 9LN vierge. Manuel à jour.",
+  "version": "0.9.17",
+  "url": "https://raw.githubusercontent.com/FuchyBe/BMS-CPD-releases/main/v0.9.17/BMS-CPD.exe",
+  "sha256": "7ec94b2ac4dae356c600d797461e4dfa50001cb90a93f18a3d51555683c9d6a9",
+  "setup_url": "https://raw.githubusercontent.com/FuchyBe/BMS-CPD-releases/main/v0.9.17/BMS-CPD-Setup-0.9.17.exe",
+  "setup_sha256": "f72be1a1bbefed96d90375577ca08455e16f0235ede484bc370060454acef40e",
+  "notes": "TSD : l'appui court sur BULLS affiche ou masque le bullseye de la mission ; les contacts BULLS suivent OBJ. Manuel à jour.",
   "date": "2026-11-16",
   "changelog": [
+    {
+      "version": "0.9.17",
+      "date": "2026-11-16",
+      "notes": "TSD : l'appui court sur BULLS affiche ou masque le bullseye de la mission ; les contacts BULLS suivent OBJ. Manuel à jour."
+    },
     {
       "version": "0.9.16",
       "date": "2026-11-16",
