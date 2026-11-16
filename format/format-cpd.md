@@ -9,6 +9,9 @@ for BMS-CPD.
 - Status: **stable, version 1** (BMS-CPD 0.9.8 and later).
 - Audience: anyone writing or generating `.cpd` files.
 - A file can be written by hand in any text editor.
+- Also available as a PDF: [format-cpd.pdf](format-cpd.pdf).
+
+![Visual summary of the TSD graphics: the 6 items, point symbols, colours, strokes, fills, positions and limits](cpd-graphics.jpg)
 
 Contents: 1. Overview · 2. File rules · 3. Statements · 4. Positions ·
 5. Attributes · 6. Item reference · 7. Limits · 8. Errors and warnings ·
