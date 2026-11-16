@@ -1,12 +1,17 @@
 {
-  "version": "0.9.19",
-  "url": "https://raw.githubusercontent.com/FuchyBe/BMS-CPD-releases/main/v0.9.19/BMS-CPD.exe",
-  "sha256": "f81d05f1a7ab12238806f6461a7d2ecb3b44c7a49457bd0ab93b36f45858c078",
-  "setup_url": "https://raw.githubusercontent.com/FuchyBe/BMS-CPD-releases/main/v0.9.19/BMS-CPD-Setup-0.9.19.exe",
-  "setup_sha256": "75c9274f02cce64ad101f90fe2a30f17c82abeb7130de8dce46838282c1c0406",
-  "notes": "Admin › Falcon BMS : écrans extraits RTT placés avec des cadres sur le bureau (glisser, coins, ou POS / SIZE), RTTClient.ini écrit avec sauvegarde, boutons Lancer / Relancer / Arrêter RTT. Manuel à jour.",
+  "version": "0.9.20",
+  "url": "https://raw.githubusercontent.com/FuchyBe/BMS-CPD-releases/main/v0.9.20/BMS-CPD.exe",
+  "sha256": "5d3c339daf5bb20cf529c4678efa9a4187e844598eb2e5d32d28c97eb0292d52",
+  "setup_url": "https://raw.githubusercontent.com/FuchyBe/BMS-CPD-releases/main/v0.9.20/BMS-CPD-Setup-0.9.20.exe",
+  "setup_sha256": "a5401b96a941065d67d0fdb821faf4254fbde70bbe0f7e14ebecb835eed63e08",
+  "notes": "Mise à jour plus fiable (lien de l'installateur si elle n'aboutit pas) ; BULLS : BRAA depuis l'avion et entraînement ; TOLD : mesures partagées avec le groupe, carte TOLD dans le kneeboard. Manuel à jour.",
   "date": "2026-11-16",
   "changelog": [
+    {
+      "version": "0.9.20",
+      "date": "2026-11-16",
+      "notes": "Mise à jour plus fiable (lien de l'installateur si elle n'aboutit pas) ; BULLS : BRAA depuis l'avion et entraînement ; TOLD : mesures partagées avec le groupe, carte TOLD dans le kneeboard. Manuel à jour."
+    },
     {
       "version": "0.9.19",
       "date": "2026-11-16",
@@ -201,11 +206,6 @@
       "version": "0.4.0-beta",
       "date": "2026-11-15",
       "notes": "Installateur Windows, icône dans la zone de notification (plus de console), admin dans sa fenêtre, CPD ouvert automatiquement sur la tablette, mode tactile Overlay (BMS garde le focus, la souris ne bouge pas), affichage adapté à toutes les tablettes en portrait."
-    },
-    {
-      "version": "0.3.0-beta",
-      "date": "2026-11-15",
-      "notes": "Première version publiée sur GitHub : mise à jour automatique intégrée (canal beta). Contient aussi : checklist officielle BMS, jauge AOA en ruban, MFD FILL pour le TGP, TTG/ETA sur le TSD."
     }
   ]
 }
