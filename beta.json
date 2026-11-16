@@ -1,12 +1,17 @@
 {
-  "version": "0.9.18",
-  "url": "https://raw.githubusercontent.com/FuchyBe/BMS-CPD-releases/main/v0.9.18/BMS-CPD.exe",
-  "sha256": "062f40a8da1cdf13087f4a3696a50c5cb630aa0761469267963d91c291ed9275",
-  "setup_url": "https://raw.githubusercontent.com/FuchyBe/BMS-CPD-releases/main/v0.9.18/BMS-CPD-Setup-0.9.18.exe",
-  "setup_sha256": "033e876b19a4137eb3aa8f638633e81335a5753ffd4c0c62afa7115065e0e3ad",
-  "notes": "Page TOLD (BRIEF › L2) : décollage et atterrissage préremplis depuis le briefing et BMS, 3 modèles (carte, cockpit, graphique) au choix dans l'administration, distances apprises en vol. Manuel à jour.",
+  "version": "0.9.19",
+  "url": "https://raw.githubusercontent.com/FuchyBe/BMS-CPD-releases/main/v0.9.19/BMS-CPD.exe",
+  "sha256": "f81d05f1a7ab12238806f6461a7d2ecb3b44c7a49457bd0ab93b36f45858c078",
+  "setup_url": "https://raw.githubusercontent.com/FuchyBe/BMS-CPD-releases/main/v0.9.19/BMS-CPD-Setup-0.9.19.exe",
+  "setup_sha256": "75c9274f02cce64ad101f90fe2a30f17c82abeb7130de8dce46838282c1c0406",
+  "notes": "Admin › Falcon BMS : écrans extraits RTT placés avec des cadres sur le bureau (glisser, coins, ou POS / SIZE), RTTClient.ini écrit avec sauvegarde, boutons Lancer / Relancer / Arrêter RTT. Manuel à jour.",
   "date": "2026-11-16",
   "changelog": [
+    {
+      "version": "0.9.19",
+      "date": "2026-11-16",
+      "notes": "Admin › Falcon BMS : écrans extraits RTT placés avec des cadres sur le bureau (glisser, coins, ou POS / SIZE), RTTClient.ini écrit avec sauvegarde, boutons Lancer / Relancer / Arrêter RTT. Manuel à jour."
+    },
     {
       "version": "0.9.18",
       "date": "2026-11-16",
