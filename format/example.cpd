@@ -1,0 +1,11 @@
+cpd 1
+layer "Demo VIPER"
+line   "FLOT" color=red width=3 dash=dash
+       BULL 120/42 ; BULL 140/34 ; BULL 165/31 ; BULL 195/36
+zone   "KILL BOX AB12" color=amber fill=amber:20 side=hostile
+       BULL 172/44 ; BULL 188/44 ; BULL 188/56 ; BULL 172/56
+circle "SA-11 POP-UP" center=BULL 128/60 radius=7nm color=red dash=dot
+orbit  "CAP NORTH" BULL 160/52 -> BULL 135/58 width=6nm turn=right alt=FL250-FL300 color=cyan
+point  "IP ALPHA" BULL 158/84 symbol=ip color=white
+point  "TGT 1" BULL 180/50 symbol=target side=hostile
+text   "FENCE IN" BULL 150/76 size=18 color=amber box=on
