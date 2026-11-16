@@ -1,8 +1,8 @@
 {
-  "version": "0.9.10-beta",
-  "url": "https://raw.githubusercontent.com/FuchyBe/BMS-CPD-releases/main/v0.9.10-beta/BMS-CPD.exe",
-  "sha256": "4987100cd978b1d58f24f909482ce7f922a3fb498f3a1b805205d8d8e559507a",
-  "setup_url": "https://raw.githubusercontent.com/FuchyBe/BMS-CPD-releases/main/v0.9.10-beta/BMS-CPD-Setup-0.9.10-beta.exe",
-  "setup_sha256": "90e2d94d62624643ff5feb00d2c6bc065bb376f981a7a4027e037d419ed7ba56",
-  "notes": "KNBD (ex-DOC) : PUBS / LIB / MSN. LIB = bibliothèque permanente (PERS) + dossier d'escadrille synchronisé (SQDN, Google Drive, OneDrive…). DEL et KEEP. Page Kneeboard dans l'admin. Manuel à jour."
+  "version": "0.9.11-beta",
+  "url": "https://raw.githubusercontent.com/FuchyBe/BMS-CPD-releases/main/v0.9.11-beta/BMS-CPD.exe",
+  "sha256": "0989440b00e59ef985d999b85f0dda9a6e433cab5207be4cf956eb373f218e91",
+  "setup_url": "https://raw.githubusercontent.com/FuchyBe/BMS-CPD-releases/main/v0.9.11-beta/BMS-CPD-Setup-0.9.11-beta.exe",
+  "setup_sha256": "574168cf655022173211877a4ec340937ce2f0ad30d1133a1d53f3839a2c5ea7",
+  "notes": "Dossier d'escadrille SQDN toujours en lecture seule : DEL masque un document sur ce PC seulement (une nouvelle version réapparaît). Admin › Kneeboard : réafficher les documents masqués. Manuel à jour."
 }
