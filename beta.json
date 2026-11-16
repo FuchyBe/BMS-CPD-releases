@@ -1,8 +1,8 @@
 {
-  "version": "0.9.11-beta",
-  "url": "https://raw.githubusercontent.com/FuchyBe/BMS-CPD-releases/main/v0.9.11-beta/BMS-CPD.exe",
-  "sha256": "0989440b00e59ef985d999b85f0dda9a6e433cab5207be4cf956eb373f218e91",
-  "setup_url": "https://raw.githubusercontent.com/FuchyBe/BMS-CPD-releases/main/v0.9.11-beta/BMS-CPD-Setup-0.9.11-beta.exe",
-  "setup_sha256": "574168cf655022173211877a4ec340937ce2f0ad30d1133a1d53f3839a2c5ea7",
-  "notes": "Dossier d'escadrille SQDN toujours en lecture seule : DEL masque un document sur ce PC seulement (une nouvelle version réapparaît). Admin › Kneeboard : réafficher les documents masqués. Manuel à jour."
+  "version": "0.9.12-beta",
+  "url": "https://raw.githubusercontent.com/FuchyBe/BMS-CPD-releases/main/v0.9.12-beta/BMS-CPD.exe",
+  "sha256": "e29637d2e17a7005d99a5f2fe05e3111936684c4c306d97fbcd87ef0d28ae5af",
+  "setup_url": "https://raw.githubusercontent.com/FuchyBe/BMS-CPD-releases/main/v0.9.12-beta/BMS-CPD-Setup-0.9.12-beta.exe",
+  "setup_sha256": "64e523688f47cd2e00838226cfa304017a005539ccb63c60c6c6314f6f563d24",
+  "notes": "MFD en vue FILL : image agrandie pour que les libellés des OSB du MFD passent sous le cadre (vidéo TGP, réticule, distance et coordonnées gardés). MAG (R4) règle l'agrandissement selon la tablette : + R3 / − R5, MAG à nouveau enregistre. Manuel à jour."
 }
