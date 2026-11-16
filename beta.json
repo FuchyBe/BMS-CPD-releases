@@ -1,8 +1,8 @@
 {
-  "version": "0.9.9-beta",
-  "url": "https://raw.githubusercontent.com/FuchyBe/BMS-CPD-releases/main/v0.9.9-beta/BMS-CPD.exe",
-  "sha256": "186e1302a431019689d1435881d8604ad792fe16328ba1fc46e2425ad4a23d87",
-  "setup_url": "https://raw.githubusercontent.com/FuchyBe/BMS-CPD-releases/main/v0.9.9-beta/BMS-CPD-Setup-0.9.9-beta.exe",
-  "setup_sha256": "ced4ef453f3753c6102d7d84d949407c9d251afe43eee66bc9dea471ac74d7b1",
-  "notes": "RWR : bandeaux contre-mesures, alerte SPIKE / LAUNCH"
+  "version": "0.9.10-beta",
+  "url": "https://raw.githubusercontent.com/FuchyBe/BMS-CPD-releases/main/v0.9.10-beta/BMS-CPD.exe",
+  "sha256": "4987100cd978b1d58f24f909482ce7f922a3fb498f3a1b805205d8d8e559507a",
+  "setup_url": "https://raw.githubusercontent.com/FuchyBe/BMS-CPD-releases/main/v0.9.10-beta/BMS-CPD-Setup-0.9.10-beta.exe",
+  "setup_sha256": "90e2d94d62624643ff5feb00d2c6bc065bb376f981a7a4027e037d419ed7ba56",
+  "notes": "KNBD (ex-DOC) : PUBS / LIB / MSN. LIB = bibliothèque permanente (PERS) + dossier d'escadrille synchronisé (SQDN, Google Drive, OneDrive…). DEL et KEEP. Page Kneeboard dans l'admin. Manuel à jour."
 }
