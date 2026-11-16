@@ -1,8 +1,8 @@
 {
-  "version": "0.9.7-beta",
-  "url": "https://raw.githubusercontent.com/FuchyBe/BMS-CPD-releases/main/v0.9.7-beta/BMS-CPD.exe",
-  "sha256": "00d3e6a57afb949be1c9660a3f3b4af59ef94b14b6ee12bfdfa895c408c85bd9",
-  "setup_url": "https://raw.githubusercontent.com/FuchyBe/BMS-CPD-releases/main/v0.9.7-beta/BMS-CPD-Setup-0.9.7-beta.exe",
-  "setup_sha256": "c397bdddbbd0cd861f053d5c8dbd8b04c75bb3bba236dfb8fe0e4c50ad705be6",
-  "notes": "Cercles de menace pilotés par le RWR (SEARCH / LAUNCH), DLINK sans AWACS"
+  "version": "0.9.8-beta",
+  "url": "https://raw.githubusercontent.com/FuchyBe/BMS-CPD-releases/main/v0.9.8-beta/BMS-CPD.exe",
+  "sha256": "fb3b050b430fe2347e5c2e28c0da72813fa367b90409d08380a4a0a8f9c78bdd",
+  "setup_url": "https://raw.githubusercontent.com/FuchyBe/BMS-CPD-releases/main/v0.9.8-beta/BMS-CPD-Setup-0.9.8-beta.exe",
+  "setup_sha256": "2b5b4ec1e47026c0a22692530b96d6cb7de1db80de7287ddcdb86cb419c46614",
+  "notes": "Graphismes TSD importés (.cpd), partage, format documenté"
 }
