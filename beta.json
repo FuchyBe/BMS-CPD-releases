@@ -1,8 +1,8 @@
 {
-  "version": "0.9.8-beta",
-  "url": "https://raw.githubusercontent.com/FuchyBe/BMS-CPD-releases/main/v0.9.8-beta/BMS-CPD.exe",
-  "sha256": "fb3b050b430fe2347e5c2e28c0da72813fa367b90409d08380a4a0a8f9c78bdd",
-  "setup_url": "https://raw.githubusercontent.com/FuchyBe/BMS-CPD-releases/main/v0.9.8-beta/BMS-CPD-Setup-0.9.8-beta.exe",
-  "setup_sha256": "2b5b4ec1e47026c0a22692530b96d6cb7de1db80de7287ddcdb86cb419c46614",
-  "notes": "Graphismes TSD importés (.cpd), partage, format documenté"
+  "version": "0.9.9-beta",
+  "url": "https://raw.githubusercontent.com/FuchyBe/BMS-CPD-releases/main/v0.9.9-beta/BMS-CPD.exe",
+  "sha256": "186e1302a431019689d1435881d8604ad792fe16328ba1fc46e2425ad4a23d87",
+  "setup_url": "https://raw.githubusercontent.com/FuchyBe/BMS-CPD-releases/main/v0.9.9-beta/BMS-CPD-Setup-0.9.9-beta.exe",
+  "setup_sha256": "ced4ef453f3753c6102d7d84d949407c9d251afe43eee66bc9dea471ac74d7b1",
+  "notes": "RWR : bandeaux contre-mesures, alerte SPIKE / LAUNCH"
 }
