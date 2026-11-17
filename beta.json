@@ -1,12 +1,17 @@
 {
-  "version": "0.9.22",
-  "url": "https://raw.githubusercontent.com/FuchyBe/BMS-CPD-releases/main/v0.9.22/BMS-CPD.exe",
-  "sha256": "ed070ce429a0106d99f145423f54e76756b6ab8b0bf94b3d6f66f6285e16e1d3",
-  "setup_url": "https://raw.githubusercontent.com/FuchyBe/BMS-CPD-releases/main/v0.9.22/BMS-CPD-Setup-0.9.22.exe",
-  "setup_sha256": "73368bcbfcb5094107e41181cc0c137c26cee71ebd64cafaaa81f24b58834ded",
-  "notes": "0.9.22-beta : écriture du DTC (expérimental, à activer dans l'admin) — steerpoints et menaces préplanifiées modifiés sur le TSD (appui long) ou dans BRIEF › DTC, écrits dans l'ini de mission et/ou le DTC pilote hors 3D, avec sauvegarde et restauration ; route envoyée au groupe (SEND) ; vérification en 3D.",
+  "version": "0.9.23",
+  "url": "https://raw.githubusercontent.com/FuchyBe/BMS-CPD-releases/main/v0.9.23/BMS-CPD.exe",
+  "sha256": "251d5a6be9af27612eae4c0db6ccf4b51344228f723b295d7d4332e74ef1b366",
+  "setup_url": "https://raw.githubusercontent.com/FuchyBe/BMS-CPD-releases/main/v0.9.23/BMS-CPD-Setup-0.9.23.exe",
+  "setup_sha256": "88fb86ba4cf0667e93e878dfd81c8a78ff3e7daf2b7d4c04878e3ef1b32fc4ea",
+  "notes": "0.9.23-beta : fiabilité du partage de groupe (vraies limites ntfy.sh, refus avant envoi, file d'envoi, reprise sans perte, reconnexion au réveil et au changement de réseau), bandeau LNK, documents par référence, plafonds de taille par type ; objets du groupe modifiés en local jusqu'à ENVOYER LA MODIF, suppression pour tous réservée au créateur ; mesures TOLD séparées par type d'avion.",
   "date": "2026-11-17",
   "changelog": [
+    {
+      "version": "0.9.23",
+      "date": "2026-11-17",
+      "notes": "0.9.23-beta : fiabilité du partage de groupe (vraies limites ntfy.sh, refus avant envoi, file d'envoi, reprise sans perte, reconnexion au réveil et au changement de réseau), bandeau LNK, documents par référence, plafonds de taille par type ; objets du groupe modifiés en local jusqu'à ENVOYER LA MODIF, suppression pour tous réservée au créateur ; mesures TOLD séparées par type d'avion."
+    },
     {
       "version": "0.9.22",
       "date": "2026-11-17",
@@ -201,11 +206,6 @@
       "version": "0.5.1-beta",
       "date": "2026-11-15",
       "notes": "TSD : bascule de carte BLANK / VFR par théâtre (choix dans SET › Cartes du TSD). HSI : HDG et CRS recentrés entre leurs flèches. ILS : glide, drapeaux GS/LOC et balises OM/MM sur HSI et STBY."
-    },
-    {
-      "version": "0.5.0-beta",
-      "date": "2026-11-15",
-      "notes": "Nouveau bezel simplifié : 5 OSB en haut et en bas, 8 de chaque côté, une touche = un affichage ; RWR + EWS en 60/40 ; SET en bas d'écran avec retour automatique ; RET direct et mode nuit dans les angles droits ; HDG/CRS alignés sur la flèche ▼."
     }
   ]
 }
