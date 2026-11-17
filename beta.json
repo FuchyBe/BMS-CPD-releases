@@ -1,12 +1,17 @@
 {
-  "version": "0.9.24",
-  "url": "https://raw.githubusercontent.com/FuchyBe/BMS-CPD-releases/main/v0.9.24/BMS-CPD.exe",
-  "sha256": "43fc902be840446687b539b39acb956d1be98a15cc5cc8a08f0b5c610b3b824f",
-  "setup_url": "https://raw.githubusercontent.com/FuchyBe/BMS-CPD-releases/main/v0.9.24/BMS-CPD-Setup-0.9.24.exe",
-  "setup_sha256": "b593a1bacf88f492d5b0dd6f05f5eb18212276189bbe1654924ed288444c4da6",
-  "notes": "0.9.24-beta : serveur d'escadrille en IP directe (case dans l'admin ou bmscpd -relay sur un serveur dédié, jeton + empreinte, annonce automatique, VPN détecté) ; DLINK GRP (positions à l'estime, MON ÉTAT, joker/bingo/winchester) avec le serveur ; COMAO (code + phrase, pousser au vol, couches ESC/COMAO, promouvoir, fin = effacement) ; LNK par canal.",
+  "version": "0.9.25",
+  "url": "https://raw.githubusercontent.com/FuchyBe/BMS-CPD-releases/main/v0.9.25/BMS-CPD.exe",
+  "sha256": "b90c5da991a97256a1de12d354f03c4458deba73876a6ad183e65853f75c3334",
+  "setup_url": "https://raw.githubusercontent.com/FuchyBe/BMS-CPD-releases/main/v0.9.25/BMS-CPD-Setup-0.9.25.exe",
+  "setup_sha256": "e51c537f6cdd401e09d683ee14d20c0f30c8e97ed8c8574584bc5966be7499e5",
+  "notes": "0.9.25-beta : TOLD — choix des terrains DÉP/ARR et des pistes (designs A, B, C) ; couches tactiques INDIV/ESC/COMAO : transférer = déplacer, sauvegarde par vol, effacement en fin de mission, rappel depuis DOCS › LYR TAC, conservation réglable dans l'admin ; checklists : RST ALL et remise à zéro en fin de mission ; correction : gel possible du partage en changeant le mode du serveur pendant une COMAO.",
   "date": "2026-11-17",
   "changelog": [
+    {
+      "version": "0.9.25",
+      "date": "2026-11-17",
+      "notes": "0.9.25-beta : TOLD — choix des terrains DÉP/ARR et des pistes (designs A, B, C) ; couches tactiques INDIV/ESC/COMAO : transférer = déplacer, sauvegarde par vol, effacement en fin de mission, rappel depuis DOCS › LYR TAC, conservation réglable dans l'admin ; checklists : RST ALL et remise à zéro en fin de mission ; correction : gel possible du partage en changeant le mode du serveur pendant une COMAO."
+    },
     {
       "version": "0.9.24",
       "date": "2026-11-17",
@@ -201,11 +206,6 @@
       "version": "0.6.1-beta",
       "date": "2026-11-15",
       "notes": "Admin : attribution automatique des touches manquantes du fichier .key (aperçu, sauvegarde datée, vérification, restauration en un clic ; BMS doit être fermé)."
-    },
-    {
-      "version": "0.6.0-beta",
-      "date": "2026-11-15",
-      "notes": "Groupe d'escadron (code + mot de passe, relais ntfy.sh ou dossier partagé, chiffré) : documents partagés (CHRT › SHRD), points et zones tactiques sur le TSD par appui long (dont CAP en hippodrome), 9-line CAS et scratchpad dans CHKL, tous modifiables et partageables. Clavier à l'écran. Appui long près d'un aéroport : cartes."
     }
   ]
 }
