@@ -1,12 +1,17 @@
 {
-  "version": "0.9.21",
-  "url": "https://raw.githubusercontent.com/FuchyBe/BMS-CPD-releases/main/v0.9.21/BMS-CPD.exe",
-  "sha256": "1db2c60d12c2cc682e6add0bae009eca840a1c79d865c8a3dd35ea8f95c12b28",
-  "setup_url": "https://raw.githubusercontent.com/FuchyBe/BMS-CPD-releases/main/v0.9.21/BMS-CPD-Setup-0.9.21.exe",
-  "setup_sha256": "7e73a3c15f6d4e618345a143517f3e447d7ed58fcefe8c1d7bb227af6e53d06a",
-  "notes": "0.9.21-beta : BRIEF › COMM (radios UHF/VHF, comm ladder, saisie ICP), HSI › FUEL (carburant actuel et plan, bingo/joker, graphe), TSD RULER (règle cap/distance) + fiche terrain et déroutement, KNBD › MSN · DATACARD.",
+  "version": "0.9.22",
+  "url": "https://raw.githubusercontent.com/FuchyBe/BMS-CPD-releases/main/v0.9.22/BMS-CPD.exe",
+  "sha256": "ed070ce429a0106d99f145423f54e76756b6ab8b0bf94b3d6f66f6285e16e1d3",
+  "setup_url": "https://raw.githubusercontent.com/FuchyBe/BMS-CPD-releases/main/v0.9.22/BMS-CPD-Setup-0.9.22.exe",
+  "setup_sha256": "73368bcbfcb5094107e41181cc0c137c26cee71ebd64cafaaa81f24b58834ded",
+  "notes": "0.9.22-beta : écriture du DTC (expérimental, à activer dans l'admin) — steerpoints et menaces préplanifiées modifiés sur le TSD (appui long) ou dans BRIEF › DTC, écrits dans l'ini de mission et/ou le DTC pilote hors 3D, avec sauvegarde et restauration ; route envoyée au groupe (SEND) ; vérification en 3D.",
   "date": "2026-11-17",
   "changelog": [
+    {
+      "version": "0.9.22",
+      "date": "2026-11-17",
+      "notes": "0.9.22-beta : écriture du DTC (expérimental, à activer dans l'admin) — steerpoints et menaces préplanifiées modifiés sur le TSD (appui long) ou dans BRIEF › DTC, écrits dans l'ini de mission et/ou le DTC pilote hors 3D, avec sauvegarde et restauration ; route envoyée au groupe (SEND) ; vérification en 3D."
+    },
     {
       "version": "0.9.21",
       "date": "2026-11-17",
@@ -201,11 +206,6 @@
       "version": "0.5.0-beta",
       "date": "2026-11-15",
       "notes": "Nouveau bezel simplifié : 5 OSB en haut et en bas, 8 de chaque côté, une touche = un affichage ; RWR + EWS en 60/40 ; SET en bas d'écran avec retour automatique ; RET direct et mode nuit dans les angles droits ; HDG/CRS alignés sur la flèche ▼."
-    },
-    {
-      "version": "0.4.1-beta",
-      "date": "2026-11-15",
-      "notes": "Lecture du fichier .ini de mission (DTC) : nom de la mission dans la barre d'état, plan affiché sur le TSD avant le vol (steerpoints, menaces, lignes L1–L4, terrains de dégagement)."
     }
   ]
 }
