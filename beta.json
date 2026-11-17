@@ -1,12 +1,17 @@
 {
-  "version": "0.9.23",
-  "url": "https://raw.githubusercontent.com/FuchyBe/BMS-CPD-releases/main/v0.9.23/BMS-CPD.exe",
-  "sha256": "251d5a6be9af27612eae4c0db6ccf4b51344228f723b295d7d4332e74ef1b366",
-  "setup_url": "https://raw.githubusercontent.com/FuchyBe/BMS-CPD-releases/main/v0.9.23/BMS-CPD-Setup-0.9.23.exe",
-  "setup_sha256": "88fb86ba4cf0667e93e878dfd81c8a78ff3e7daf2b7d4c04878e3ef1b32fc4ea",
-  "notes": "0.9.23-beta : fiabilité du partage de groupe (vraies limites ntfy.sh, refus avant envoi, file d'envoi, reprise sans perte, reconnexion au réveil et au changement de réseau), bandeau LNK, documents par référence, plafonds de taille par type ; objets du groupe modifiés en local jusqu'à ENVOYER LA MODIF, suppression pour tous réservée au créateur ; mesures TOLD séparées par type d'avion.",
+  "version": "0.9.24",
+  "url": "https://raw.githubusercontent.com/FuchyBe/BMS-CPD-releases/main/v0.9.24/BMS-CPD.exe",
+  "sha256": "43fc902be840446687b539b39acb956d1be98a15cc5cc8a08f0b5c610b3b824f",
+  "setup_url": "https://raw.githubusercontent.com/FuchyBe/BMS-CPD-releases/main/v0.9.24/BMS-CPD-Setup-0.9.24.exe",
+  "setup_sha256": "b593a1bacf88f492d5b0dd6f05f5eb18212276189bbe1654924ed288444c4da6",
+  "notes": "0.9.24-beta : serveur d'escadrille en IP directe (case dans l'admin ou bmscpd -relay sur un serveur dédié, jeton + empreinte, annonce automatique, VPN détecté) ; DLINK GRP (positions à l'estime, MON ÉTAT, joker/bingo/winchester) avec le serveur ; COMAO (code + phrase, pousser au vol, couches ESC/COMAO, promouvoir, fin = effacement) ; LNK par canal.",
   "date": "2026-11-17",
   "changelog": [
+    {
+      "version": "0.9.24",
+      "date": "2026-11-17",
+      "notes": "0.9.24-beta : serveur d'escadrille en IP directe (case dans l'admin ou bmscpd -relay sur un serveur dédié, jeton + empreinte, annonce automatique, VPN détecté) ; DLINK GRP (positions à l'estime, MON ÉTAT, joker/bingo/winchester) avec le serveur ; COMAO (code + phrase, pousser au vol, couches ESC/COMAO, promouvoir, fin = effacement) ; LNK par canal."
+    },
     {
       "version": "0.9.23",
       "date": "2026-11-17",
@@ -201,11 +206,6 @@
       "version": "0.6.0-beta",
       "date": "2026-11-15",
       "notes": "Groupe d'escadron (code + mot de passe, relais ntfy.sh ou dossier partagé, chiffré) : documents partagés (CHRT › SHRD), points et zones tactiques sur le TSD par appui long (dont CAP en hippodrome), 9-line CAS et scratchpad dans CHKL, tous modifiables et partageables. Clavier à l'écran. Appui long près d'un aéroport : cartes."
-    },
-    {
-      "version": "0.5.1-beta",
-      "date": "2026-11-15",
-      "notes": "TSD : bascule de carte BLANK / VFR par théâtre (choix dans SET › Cartes du TSD). HSI : HDG et CRS recentrés entre leurs flèches. ILS : glide, drapeaux GS/LOC et balises OM/MM sur HSI et STBY."
     }
   ]
 }
