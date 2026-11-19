@@ -1,8 +1,13 @@
-# BMS-CPD — versions publiées
+# BMS Glass — versions publiées
 
-Center Pedestal Display F-16 Block 70/72 pour tablette Android, connecté à Falcon BMS 4.38.
+F-16 CPD et F-15C Eagle PAD sur tablette, pour Falcon BMS 4.38 (ex-BMS-CPD).
 
-- **Télécharger :** page [Releases](https://github.com/FuchyBe/BMS-CPD-releases/releases) → `BMS-CPD.exe` (ou le zip avec le guide LISEZMOI).
-- **Mise à jour automatique :** BMS-CPD lit `beta.json` (canal beta) ou `stable.json` (canal stable) dans ce dépôt et propose la nouvelle version dans sa page d'admin.
+- **Programme** : dossier `v<version>/`
+  - `BMS-Glass-Setup-<version>.exe` : **installateur** (recommandé ; remplace BMS-CPD et reprend les réglages) ;
+  - `BMS-Glass.exe` : **exe portable**, sans installation.
+- **Serveur d'escadrille** : `BMS-Glass-Server-Setup-<version>.exe` (Windows, installateur) ; `bms-glass-server-linux-<version>.tar.gz` (Linux / VPS, avec `install.sh`) ; binaires `bms-glass-server-linux-amd64` / `-arm64`.
+- **Manuels** : `manuel/Manuel-BMS-Glass.fr.pdf`, `manuel/Manuel-BMS-Glass-Server.fr.pdf` (autres langues : anciens manuels `Manuel-BMS-CPD.*.pdf` jusqu'à la version finale).
+- **Mise à jour automatique** : BMS Glass lit `beta.json` dans ce dépôt et propose la nouvelle version dans sa page d'administration.
+- **Format des couches tactiques** : `format/format-cpd.md`.
 
-Ce dépôt ne contient que les exécutables publiés.
+Ce dépôt ne contient que les fichiers publiés. Les versions 0.x (BMS-CPD) ont été retirées ; la première version publiée de BMS Glass est la 1.0.0-beta.2.
