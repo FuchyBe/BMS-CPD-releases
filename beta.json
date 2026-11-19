@@ -1,12 +1,17 @@
 {
-  "version": "0.9.25",
-  "url": "https://raw.githubusercontent.com/FuchyBe/BMS-CPD-releases/main/v0.9.25/BMS-CPD.exe",
-  "sha256": "b90c5da991a97256a1de12d354f03c4458deba73876a6ad183e65853f75c3334",
-  "setup_url": "https://raw.githubusercontent.com/FuchyBe/BMS-CPD-releases/main/v0.9.25/BMS-CPD-Setup-0.9.25.exe",
-  "setup_sha256": "e51c537f6cdd401e09d683ee14d20c0f30c8e97ed8c8574584bc5966be7499e5",
-  "notes": "0.9.25-beta : TOLD — choix des terrains DÉP/ARR et des pistes (designs A, B, C) ; couches tactiques INDIV/ESC/COMAO : transférer = déplacer, sauvegarde par vol, effacement en fin de mission, rappel depuis DOCS › LYR TAC, conservation réglable dans l'admin ; checklists : RST ALL et remise à zéro en fin de mission ; correction : gel possible du partage en changeant le mode du serveur pendant une COMAO.",
-  "date": "2026-11-17",
+  "version": "1.0.0-beta.2",
+  "url": "https://raw.githubusercontent.com/FuchyBe/BMS-CPD-releases/main/v1.0.0-beta.2/BMS-Glass.exe",
+  "sha256": "b81f069781b367887a56ade08111e37202209363bd68efd4767968d8a8eb7bef",
+  "setup_url": "https://raw.githubusercontent.com/FuchyBe/BMS-CPD-releases/main/v1.0.0-beta.2/BMS-Glass-Setup-1.0.0-beta.2.exe",
+  "setup_sha256": "dc6ff5eada842e23ab9142a0513468d43da875a6c514874e5c4bed4ea80d05a3",
+  "notes": "1.0.0-beta.2 : nouveau nom BMS Glass (l'installateur remplace BMS-CPD et reprend tes réglages) ; Eagle PAD F-15C dans le même programme ; destinataires (tous, A/A, A/G, mon vol) et rangs flight / escadrille / COMAO ; BMS Glass Server (serveur d'escadrille installable : service Windows, page d'administration, Linux, Docker) ; checklists par avion et par block (F-15C, F-16 40-52 ou 52+) ; keyfiles par avion et Harmoniser (Alternative Launcher) ; COMM : noms de tes presets ; cadence des MFD alignée sur BMS ; User.cfg : bloc du Launcher respecté ; manuel FR et manuel du serveur.",
+  "date": "2026-11-19",
   "changelog": [
+    {
+      "version": "1.0.0-beta.2",
+      "date": "2026-11-19",
+      "notes": "1.0.0-beta.2 : nouveau nom BMS Glass (l'installateur remplace BMS-CPD et reprend tes réglages) ; Eagle PAD F-15C dans le même programme ; destinataires (tous, A/A, A/G, mon vol) et rangs flight / escadrille / COMAO ; BMS Glass Server (serveur d'escadrille installable : service Windows, page d'administration, Linux, Docker) ; checklists par avion et par block (F-15C, F-16 40-52 ou 52+) ; keyfiles par avion et Harmoniser (Alternative Launcher) ; COMM : noms de tes presets ; cadence des MFD alignée sur BMS ; User.cfg : bloc du Launcher respecté ; manuel FR et manuel du serveur."
+    },
     {
       "version": "0.9.25",
       "date": "2026-11-17",
@@ -201,11 +206,9 @@
       "version": "0.6.2-beta",
       "date": "2026-11-15",
       "notes": "Écran étendu : la fenêtre du CPD ne clignote plus dans la barre des tâches et couvre tout l'écran de la tablette ; les OSB du bas restent accessibles."
-    },
-    {
-      "version": "0.6.1-beta",
-      "date": "2026-11-15",
-      "notes": "Admin : attribution automatique des touches manquantes du fichier .key (aperçu, sauvegarde datée, vérification, restauration en un clic ; BMS doit être fermé)."
     }
-  ]
+  ],
+  "server_setup_url": "https://raw.githubusercontent.com/FuchyBe/BMS-CPD-releases/main/v1.0.0-beta.2/BMS-Glass-Server-Setup-1.0.0-beta.2.exe",
+  "server_linux_url": "https://raw.githubusercontent.com/FuchyBe/BMS-CPD-releases/main/v1.0.0-beta.2/bms-glass-server-linux-amd64",
+  "server_linux_arm64_url": "https://raw.githubusercontent.com/FuchyBe/BMS-CPD-releases/main/v1.0.0-beta.2/bms-glass-server-linux-arm64"
 }
