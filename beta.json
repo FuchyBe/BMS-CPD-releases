@@ -1,12 +1,17 @@
 {
-  "version": "1.0.0-beta.2",
-  "url": "https://raw.githubusercontent.com/FuchyBe/BMS-CPD-releases/main/v1.0.0-beta.2/BMS-Glass.exe",
-  "sha256": "b81f069781b367887a56ade08111e37202209363bd68efd4767968d8a8eb7bef",
-  "setup_url": "https://raw.githubusercontent.com/FuchyBe/BMS-CPD-releases/main/v1.0.0-beta.2/BMS-Glass-Setup-1.0.0-beta.2.exe",
-  "setup_sha256": "dc6ff5eada842e23ab9142a0513468d43da875a6c514874e5c4bed4ea80d05a3",
-  "notes": "1.0.0-beta.2 : nouveau nom BMS Glass (l'installateur remplace BMS-CPD et reprend tes réglages) ; Eagle PAD F-15C dans le même programme ; destinataires (tous, A/A, A/G, mon vol) et rangs flight / escadrille / COMAO ; BMS Glass Server (serveur d'escadrille installable : service Windows, page d'administration, Linux, Docker) ; checklists par avion et par block (F-15C, F-16 40-52 ou 52+) ; keyfiles par avion et Harmoniser (Alternative Launcher) ; COMM : noms de tes presets ; cadence des MFD alignée sur BMS ; User.cfg : bloc du Launcher respecté ; manuel FR et manuel du serveur.",
+  "version": "1.0.0-beta.3",
+  "url": "https://raw.githubusercontent.com/FuchyBe/BMS-CPD-releases/main/v1.0.0-beta.3/BMS-Glass.exe",
+  "sha256": "3d730cbd22c52d8f482eb41e8a66b725ae062cb7bedbd7aee23122b22c7716b6",
+  "setup_url": "https://raw.githubusercontent.com/FuchyBe/BMS-CPD-releases/main/v1.0.0-beta.3/BMS-Glass-Setup-1.0.0-beta.3.exe",
+  "setup_sha256": "4fa0d76e8960e06be8f9ec176baacf35623dae4c5133324e4986c03e59c917fb",
+  "notes": "1.0.0-beta.3 : Eagle PAD — cadre 7·7·6·4 comme le vrai PAD (boutons du CPD, libellés alignés en lettres droites), BRT et DIM ±, plein écran par appui long ; SIT en couches FLY / DISP (ou bandeau DISP en option), RNG à droite, RING à la place de MARK, carte plus grande, MAP BLANK sombre ; BRF, COMM, CHKL, CHRT, SET et MPCD sur les touches du PAD ; manuel mis à jour.",
   "date": "2026-11-19",
   "changelog": [
+    {
+      "version": "1.0.0-beta.3",
+      "date": "2026-11-19",
+      "notes": "1.0.0-beta.3 : Eagle PAD — cadre 7·7·6·4 comme le vrai PAD (boutons du CPD, libellés alignés en lettres droites), BRT et DIM ±, plein écran par appui long ; SIT en couches FLY / DISP (ou bandeau DISP en option), RNG à droite, RING à la place de MARK, carte plus grande, MAP BLANK sombre ; BRF, COMM, CHKL, CHRT, SET et MPCD sur les touches du PAD ; manuel mis à jour."
+    },
     {
       "version": "1.0.0-beta.2",
       "date": "2026-11-19",
@@ -201,14 +206,9 @@
       "version": "0.7.0-beta",
       "date": "2026-11-15",
       "notes": "Interface simplifiée : admin avec menu (Accueil, Tablette, Théâtres, Falcon BMS, Groupe, Avancé) et SET en 4 onglets. Menu par théâtre pour choisir les cartes de fond VFR / BLANK du TSD, avec miniatures."
-    },
-    {
-      "version": "0.6.2-beta",
-      "date": "2026-11-15",
-      "notes": "Écran étendu : la fenêtre du CPD ne clignote plus dans la barre des tâches et couvre tout l'écran de la tablette ; les OSB du bas restent accessibles."
     }
   ],
-  "server_setup_url": "https://raw.githubusercontent.com/FuchyBe/BMS-CPD-releases/main/v1.0.0-beta.2/BMS-Glass-Server-Setup-1.0.0-beta.2.exe",
-  "server_linux_url": "https://raw.githubusercontent.com/FuchyBe/BMS-CPD-releases/main/v1.0.0-beta.2/bms-glass-server-linux-amd64",
-  "server_linux_arm64_url": "https://raw.githubusercontent.com/FuchyBe/BMS-CPD-releases/main/v1.0.0-beta.2/bms-glass-server-linux-arm64"
+  "server_setup_url": "https://raw.githubusercontent.com/FuchyBe/BMS-CPD-releases/main/v1.0.0-beta.3/BMS-Glass-Server-Setup-1.0.0-beta.3.exe",
+  "server_linux_url": "https://raw.githubusercontent.com/FuchyBe/BMS-CPD-releases/main/v1.0.0-beta.3/bms-glass-server-linux-amd64",
+  "server_linux_arm64_url": "https://raw.githubusercontent.com/FuchyBe/BMS-CPD-releases/main/v1.0.0-beta.3/bms-glass-server-linux-arm64"
 }
