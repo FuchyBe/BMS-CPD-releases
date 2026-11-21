@@ -1,12 +1,17 @@
 {
-  "version": "1.0.0-beta.4",
-  "url": "https://raw.githubusercontent.com/FuchyBe/BMS-CPD-releases/main/v1.0.0-beta.4/BMS-Glass.exe",
-  "sha256": "fba63236e4c10231e8139f04ae874b9cf9c9e50512bb535ccecbe9a1dfdf8b9f",
-  "setup_url": "https://raw.githubusercontent.com/FuchyBe/BMS-CPD-releases/main/v1.0.0-beta.4/BMS-Glass-Setup-1.0.0-beta.4.exe",
-  "setup_sha256": "3a8097ad894de3e1db923aebd3962fd91816b8c540b6b5f55e92cfaefc3ec339",
-  "notes": "1.0.0-beta.4 : Eagle PAD — TOLD F-15C (modèle physique recalé sur tes vols, ESTIMÉ tant qu'il manque des mesures, alertes 50 % / 80 % de la piste), page KNBD, SET complet, FUEL en schéma du F-15C avec playtime, carburant par steerpoint et touche BINGO, TEWS et COMM refaites, plan de vol MAGENTA ; le groupe devient l'Escadrille ; rôle A/A d'office pour le F-15C ; carburant et TOLD selon l'avion du briefing, avertissement si le briefing ne correspond pas à la tablette ; checklists plus lisibles ; arrêt sur la piste reconnu même avec du vent ; manuels anglais à jour ; nouveau BMS-Glass-Diag.",
-  "date": "2026-11-19",
+  "version": "1.0.0-beta.5",
+  "url": "https://raw.githubusercontent.com/FuchyBe/BMS-CPD-releases/main/v1.0.0-beta.5/BMS-Glass.exe",
+  "sha256": "a6de3b1b681ba2e597bf1ac64f7efe8e41c316578329186602b9cadef9610a4a",
+  "setup_url": "https://raw.githubusercontent.com/FuchyBe/BMS-CPD-releases/main/v1.0.0-beta.5/BMS-Glass-Setup-1.0.0-beta.5.exe",
+  "setup_sha256": "bda6d6b40c55c9e5d636ef07eb606652b1d797079d4f0ffa5ea5718b4c8fcaf0",
+  "notes": "1.0.0-beta.5 : sécurité — appairage des tablettes (QR code sur l'Accueil ou autorisation en un clic sur le PC, révocation possible), API locale durcie, phrase secrète visible sur le PC seulement, mises à jour verrouillées ; import/export .fbbmiss (plan de mission tiers en calque : kill box, CAP, corridors, cibles, menaces, FLOT bicolore avec côté ennemi automatique, droits auteur/leader/adjoint) ; export OpenKneeboard en option (DATACARD, TOLD, comm ladder en PNG pour la VR) ; nouveautés affichées avant chaque mise à jour ; message clair si BMS n'est pas en 4.38.x ; manuels FR et EN à jour.",
+  "date": "2026-11-21",
   "changelog": [
+    {
+      "version": "1.0.0-beta.5",
+      "date": "2026-11-21",
+      "notes": "1.0.0-beta.5 : sécurité — appairage des tablettes (QR code sur l'Accueil ou autorisation en un clic sur le PC, révocation possible), API locale durcie, phrase secrète visible sur le PC seulement, mises à jour verrouillées ; import/export .fbbmiss (plan de mission tiers en calque : kill box, CAP, corridors, cibles, menaces, FLOT bicolore avec côté ennemi automatique, droits auteur/leader/adjoint) ; export OpenKneeboard en option (DATACARD, TOLD, comm ladder en PNG pour la VR) ; nouveautés affichées avant chaque mise à jour ; message clair si BMS n'est pas en 4.38.x ; manuels FR et EN à jour."
+    },
     {
       "version": "1.0.0-beta.4",
       "date": "2026-11-19",
@@ -201,14 +206,9 @@
       "version": "0.7.2-beta",
       "date": "2026-11-15",
       "notes": "Cartes calées pour Hellas (HellasMap4K_Airports, HellasMap8K, HellasMap16K) et Balkans (Balkans_UI_Map_16K, Balkans_Map_1_4K), en plus d'Israel (0.7.1)."
-    },
-    {
-      "version": "0.7.1-beta",
-      "date": "2026-11-15",
-      "notes": "Israel : les cartes ITO_UI_Map_Airports_4K et ITO_Map_4K sont calées pour le TSD."
     }
   ],
-  "server_setup_url": "https://raw.githubusercontent.com/FuchyBe/BMS-CPD-releases/main/v1.0.0-beta.4/BMS-Glass-Server-Setup-1.0.0-beta.4.exe",
-  "server_linux_url": "https://raw.githubusercontent.com/FuchyBe/BMS-CPD-releases/main/v1.0.0-beta.4/bms-glass-server-linux-amd64",
-  "server_linux_arm64_url": "https://raw.githubusercontent.com/FuchyBe/BMS-CPD-releases/main/v1.0.0-beta.4/bms-glass-server-linux-arm64"
+  "server_setup_url": "https://raw.githubusercontent.com/FuchyBe/BMS-CPD-releases/main/v1.0.0-beta.5/BMS-Glass-Server-Setup-1.0.0-beta.5.exe",
+  "server_linux_url": "https://raw.githubusercontent.com/FuchyBe/BMS-CPD-releases/main/v1.0.0-beta.5/bms-glass-server-linux-amd64",
+  "server_linux_arm64_url": "https://raw.githubusercontent.com/FuchyBe/BMS-CPD-releases/main/v1.0.0-beta.5/bms-glass-server-linux-arm64"
 }
