@@ -1,12 +1,17 @@
 {
-  "version": "1.0.0-beta.5",
-  "url": "https://raw.githubusercontent.com/FuchyBe/BMS-CPD-releases/main/v1.0.0-beta.5/BMS-Glass.exe",
-  "sha256": "a6de3b1b681ba2e597bf1ac64f7efe8e41c316578329186602b9cadef9610a4a",
-  "setup_url": "https://raw.githubusercontent.com/FuchyBe/BMS-CPD-releases/main/v1.0.0-beta.5/BMS-Glass-Setup-1.0.0-beta.5.exe",
-  "setup_sha256": "bda6d6b40c55c9e5d636ef07eb606652b1d797079d4f0ffa5ea5718b4c8fcaf0",
-  "notes": "1.0.0-beta.5 : sécurité — appairage des tablettes (QR code sur l'Accueil ou autorisation en un clic sur le PC, révocation possible), API locale durcie, phrase secrète visible sur le PC seulement, mises à jour verrouillées ; import/export .fbbmiss (plan de mission tiers en calque : kill box, CAP, corridors, cibles, menaces, FLOT bicolore avec côté ennemi automatique, droits auteur/leader/adjoint) ; export OpenKneeboard en option (DATACARD, TOLD, comm ladder en PNG pour la VR) ; nouveautés affichées avant chaque mise à jour ; message clair si BMS n'est pas en 4.38.x ; manuels FR et EN à jour.",
+  "version": "1.0.0-beta.6",
+  "url": "https://raw.githubusercontent.com/FuchyBe/BMS-CPD-releases/main/v1.0.0-beta.6/BMS-Glass.exe",
+  "sha256": "fde307dfd579bbf49e20c8cd57d4170c8a173a75624207325db8114a64e070aa",
+  "setup_url": "https://raw.githubusercontent.com/FuchyBe/BMS-CPD-releases/main/v1.0.0-beta.6/BMS-Glass-Setup-1.0.0-beta.6.exe",
+  "setup_sha256": "358659bfe66a2636dc1b06335a3f1fe067040e453fe284bef41a1acf97d755af",
+  "notes": "1.0.0-beta.6 : page URGENCE sur le CPD et le PAD — MAYDAY / PAN PAN, carte + checklist d'urgence, terrains atteignables classés (High Key 7 000 ft, EPU), cap d'éjection vers la zone amie, météo du terrain, annulation / rétrogradation à l'appui long ; halo clignotant et route de dégagement d'un équipier en urgence chez toute l'escadrille (désactivable) ; options TSD : étiquettes tactiques en angels, LBL en menu de filtres par type, symbologie à l'appui long FPLN, filtres datalink à l'appui long GRP, anneaux BULLS 200/800 NM ; CDI du HSI corrigé (il était en miroir) ; ton propre avion n'apparaît plus sur le DLINK AWACS ; détection des écrans rafraîchie automatiquement avec bouton Revérifier.",
   "date": "2026-11-21",
   "changelog": [
+    {
+      "version": "1.0.0-beta.6",
+      "date": "2026-11-21",
+      "notes": "1.0.0-beta.6 : page URGENCE sur le CPD et le PAD — MAYDAY / PAN PAN, carte + checklist d'urgence, terrains atteignables classés (High Key 7 000 ft, EPU), cap d'éjection vers la zone amie, météo du terrain, annulation / rétrogradation à l'appui long ; halo clignotant et route de dégagement d'un équipier en urgence chez toute l'escadrille (désactivable) ; options TSD : étiquettes tactiques en angels, LBL en menu de filtres par type, symbologie à l'appui long FPLN, filtres datalink à l'appui long GRP, anneaux BULLS 200/800 NM ; CDI du HSI corrigé (il était en miroir) ; ton propre avion n'apparaît plus sur le DLINK AWACS ; détection des écrans rafraîchie automatiquement avec bouton Revérifier."
+    },
     {
       "version": "1.0.0-beta.5",
       "date": "2026-11-21",
@@ -201,14 +206,9 @@
       "version": "0.7.3-beta",
       "date": "2026-11-15",
       "notes": "Après une mise à jour, la tablette se recharge toute seule avec la nouvelle version."
-    },
-    {
-      "version": "0.7.2-beta",
-      "date": "2026-11-15",
-      "notes": "Cartes calées pour Hellas (HellasMap4K_Airports, HellasMap8K, HellasMap16K) et Balkans (Balkans_UI_Map_16K, Balkans_Map_1_4K), en plus d'Israel (0.7.1)."
     }
   ],
-  "server_setup_url": "https://raw.githubusercontent.com/FuchyBe/BMS-CPD-releases/main/v1.0.0-beta.5/BMS-Glass-Server-Setup-1.0.0-beta.5.exe",
-  "server_linux_url": "https://raw.githubusercontent.com/FuchyBe/BMS-CPD-releases/main/v1.0.0-beta.5/bms-glass-server-linux-amd64",
-  "server_linux_arm64_url": "https://raw.githubusercontent.com/FuchyBe/BMS-CPD-releases/main/v1.0.0-beta.5/bms-glass-server-linux-arm64"
+  "server_setup_url": "https://raw.githubusercontent.com/FuchyBe/BMS-CPD-releases/main/v1.0.0-beta.6/BMS-Glass-Server-Setup-1.0.0-beta.6.exe",
+  "server_linux_url": "https://raw.githubusercontent.com/FuchyBe/BMS-CPD-releases/main/v1.0.0-beta.6/bms-glass-server-linux-amd64",
+  "server_linux_arm64_url": "https://raw.githubusercontent.com/FuchyBe/BMS-CPD-releases/main/v1.0.0-beta.6/bms-glass-server-linux-arm64"
 }
