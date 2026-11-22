@@ -1,12 +1,17 @@
 {
-  "version": "1.0.0-beta.7.1",
-  "url": "https://raw.githubusercontent.com/FuchyBe/BMS-CPD-releases/main/v1.0.0-beta.7.1/BMS-Glass.exe",
-  "sha256": "1ab1409bc8bb29256e29a6073874ab1518dcfdfd0d0d644331bea833591d59ac",
-  "setup_url": "https://raw.githubusercontent.com/FuchyBe/BMS-CPD-releases/main/v1.0.0-beta.7.1/BMS-Glass-Setup-1.0.0-beta.7.1.exe",
-  "setup_sha256": "b9168c81f52adb5be879988536a27f208fece6d41c401e9c374c51b056f1a3a0",
-  "notes": "1.0.0-beta.7.1 : à l'ouverture, la fenêtre de l'administration affiche tous les éléments (dimensionnée 1480 × 1020, réduite et centrée sur les écrans plus petits) ; BMS-Glass-Diag profite du même ajustement.",
+  "version": "1.0.0-beta.7.2",
+  "url": "https://raw.githubusercontent.com/FuchyBe/BMS-CPD-releases/main/v1.0.0-beta.7.2/BMS-Glass.exe",
+  "sha256": "06b503128fabbb00a277406aaadcc9efd35f757bbe69fc8079bc7ad9bed00e69",
+  "setup_url": "https://raw.githubusercontent.com/FuchyBe/BMS-CPD-releases/main/v1.0.0-beta.7.2/BMS-Glass-Setup-1.0.0-beta.7.2.exe",
+  "setup_sha256": "8dcb5cc353590b41fda60a7e830bab7f8bf4ed4eb9eb71fbcf2d8138969f0df0",
+  "notes": "1.0.0-beta.7.2 : vue PED sur la page MFD du CPD — la recopie du MFD au-dessus d'un bandeau EFIS + mini-carte, façon piédestal : EFIS plein cadre (horizon, vitesse, altitude, baro, cap, bille), mini-carte TSD avec portée réglable de 10 à 80 NM (un appui dessus ouvre le TSD), MFD étendu avec FILL/zoom ; sélection du MFD gauche/droit en petit menu sur l'OSB du haut ; la fenêtre de l'appli s'ouvre désormais à une taille qui affiche tous les éléments.",
   "date": "2026-11-22",
   "changelog": [
+    {
+      "version": "1.0.0-beta.7.2",
+      "date": "2026-11-22",
+      "notes": "1.0.0-beta.7.2 : vue PED sur la page MFD du CPD — la recopie du MFD au-dessus d'un bandeau EFIS + mini-carte, façon piédestal : EFIS plein cadre (horizon, vitesse, altitude, baro, cap, bille), mini-carte TSD avec portée réglable de 10 à 80 NM (un appui dessus ouvre le TSD), MFD étendu avec FILL/zoom ; sélection du MFD gauche/droit en petit menu sur l'OSB du haut ; la fenêtre de l'appli s'ouvre désormais à une taille qui affiche tous les éléments."
+    },
     {
       "version": "1.0.0-beta.7.1",
       "date": "2026-11-22",
@@ -201,14 +206,9 @@
       "version": "0.7.6-beta",
       "date": "2026-11-15",
       "notes": "Appuis tablette fiabilisés, ouverture sur le TSD"
-    },
-    {
-      "version": "0.7.5-beta",
-      "date": "2026-11-15",
-      "notes": "Correctif : icône CPD qui clignote dans la barre des tâches et OSB du bas inaccessibles"
     }
   ],
-  "server_setup_url": "https://raw.githubusercontent.com/FuchyBe/BMS-CPD-releases/main/v1.0.0-beta.7.1/BMS-Glass-Server-Setup-1.0.0-beta.7.1.exe",
-  "server_linux_url": "https://raw.githubusercontent.com/FuchyBe/BMS-CPD-releases/main/v1.0.0-beta.7.1/bms-glass-server-linux-amd64",
-  "server_linux_arm64_url": "https://raw.githubusercontent.com/FuchyBe/BMS-CPD-releases/main/v1.0.0-beta.7.1/bms-glass-server-linux-arm64"
+  "server_setup_url": "https://raw.githubusercontent.com/FuchyBe/BMS-CPD-releases/main/v1.0.0-beta.7.2/BMS-Glass-Server-Setup-1.0.0-beta.7.2.exe",
+  "server_linux_url": "https://raw.githubusercontent.com/FuchyBe/BMS-CPD-releases/main/v1.0.0-beta.7.2/bms-glass-server-linux-amd64",
+  "server_linux_arm64_url": "https://raw.githubusercontent.com/FuchyBe/BMS-CPD-releases/main/v1.0.0-beta.7.2/bms-glass-server-linux-arm64"
 }
