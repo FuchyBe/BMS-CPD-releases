@@ -1,12 +1,17 @@
 {
-  "version": "1.0.0-beta.7.3",
-  "url": "https://raw.githubusercontent.com/FuchyBe/BMS-CPD-releases/main/v1.0.0-beta.7.3/BMS-Glass.exe",
-  "sha256": "46db1ba02b684aece8339d8fd6e5c67e6de05d21a3b36f5c2f1e5db896c7ff14",
-  "setup_url": "https://raw.githubusercontent.com/FuchyBe/BMS-CPD-releases/main/v1.0.0-beta.7.3/BMS-Glass-Setup-1.0.0-beta.7.3.exe",
-  "setup_sha256": "fa786805aed7a758e5ec72dd2df0f77c7635e9bdac3b127a58681c8f6de96765",
-  "notes": "1.0.0-beta.7.3 : l'écran de la tablette reste allumé pendant l'utilisation — tout de suite en USB ou via le relais d'escadrille, dès le premier toucher en Wi-Fi direct — plus besoin d'être en plein écran ; le maintien est repris automatiquement quand tu reviens sur la page.",
-  "date": "2026-11-22",
+  "version": "1.0.0-beta.7.4",
+  "url": "https://raw.githubusercontent.com/FuchyBe/BMS-CPD-releases/main/v1.0.0-beta.7.4/BMS-Glass.exe",
+  "sha256": "8d99c8d12233ff9f4eef8120e4dc006c81b0a22090bc77e45788b013b074dca4",
+  "setup_url": "https://raw.githubusercontent.com/FuchyBe/BMS-CPD-releases/main/v1.0.0-beta.7.4/BMS-Glass-Setup-1.0.0-beta.7.4.exe",
+  "setup_sha256": "c846be609b52193bfc2fd4186a18cac2e5b2f1c48f295cca6c82c822fa8dc536",
+  "notes": "1.0.0-beta.7.4 : liaison avec la console BMS Glass Controller (optionnelle : sans invitation, aucun appel réseau) — l'invitation du contrôleur se colle une fois dans SET › ESCADRILLE › Glass Controller ; PDC sur le CPD et le PAD : bandeau déplaçable avec ACK (« reçu »), puis la clairance avec WILCO ou UNABLE, rangée sous BRIEF › PDC ; une révision remplace la précédente, la réponse du leader vaut pour le flight, et une réponse donnée hors ligne part au retour de la liaison ; urgences transmises à la console, mention GCI ONLINE sur la page URGENCE quand un contrôleur GCI/AWACS est en poste ; fichiers .cpd de la console acceptés ; BMS-Glass-Diag : enregistreur de perfs (décollages et atterrissages F-15C / F-16 dans bms-glass-perfs.xlsx, protocole guidé, bouton ARRÊT COMPLET) ; manuels FR et EN à jour.",
+  "date": "2026-11-23",
   "changelog": [
+    {
+      "version": "1.0.0-beta.7.4",
+      "date": "2026-11-23",
+      "notes": "1.0.0-beta.7.4 : liaison avec la console BMS Glass Controller (optionnelle : sans invitation, aucun appel réseau) — l'invitation du contrôleur se colle une fois dans SET › ESCADRILLE › Glass Controller ; PDC sur le CPD et le PAD : bandeau déplaçable avec ACK (« reçu »), puis la clairance avec WILCO ou UNABLE, rangée sous BRIEF › PDC ; une révision remplace la précédente, la réponse du leader vaut pour le flight, et une réponse donnée hors ligne part au retour de la liaison ; urgences transmises à la console, mention GCI ONLINE sur la page URGENCE quand un contrôleur GCI/AWACS est en poste ; fichiers .cpd de la console acceptés ; BMS-Glass-Diag : enregistreur de perfs (décollages et atterrissages F-15C / F-16 dans bms-glass-perfs.xlsx, protocole guidé, bouton ARRÊT COMPLET) ; manuels FR et EN à jour."
+    },
     {
       "version": "1.0.0-beta.7.3",
       "date": "2026-11-22",
@@ -201,14 +206,9 @@
       "version": "0.7.8-beta",
       "date": "2026-11-15",
       "notes": "Manuel utilisateur illustré intégré (tablette, admin, menu Démarrer)"
-    },
-    {
-      "version": "0.7.7-beta",
-      "date": "2026-11-15",
-      "notes": "Une seule fenêtre CPD ; fermée pendant la mise à jour et à la fermeture"
     }
   ],
-  "server_setup_url": "https://raw.githubusercontent.com/FuchyBe/BMS-CPD-releases/main/v1.0.0-beta.7.3/BMS-Glass-Server-Setup-1.0.0-beta.7.3.exe",
-  "server_linux_url": "https://raw.githubusercontent.com/FuchyBe/BMS-CPD-releases/main/v1.0.0-beta.7.3/bms-glass-server-linux-amd64",
-  "server_linux_arm64_url": "https://raw.githubusercontent.com/FuchyBe/BMS-CPD-releases/main/v1.0.0-beta.7.3/bms-glass-server-linux-arm64"
+  "server_setup_url": "https://raw.githubusercontent.com/FuchyBe/BMS-CPD-releases/main/v1.0.0-beta.7.4/BMS-Glass-Server-Setup-1.0.0-beta.7.4.exe",
+  "server_linux_url": "https://raw.githubusercontent.com/FuchyBe/BMS-CPD-releases/main/v1.0.0-beta.7.4/bms-glass-server-linux-amd64",
+  "server_linux_arm64_url": "https://raw.githubusercontent.com/FuchyBe/BMS-CPD-releases/main/v1.0.0-beta.7.4/bms-glass-server-linux-arm64"
 }
