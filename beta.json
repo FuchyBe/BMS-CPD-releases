@@ -1,12 +1,17 @@
 {
-  "version": "1.0.0-beta.7.4",
-  "url": "https://raw.githubusercontent.com/FuchyBe/BMS-CPD-releases/main/v1.0.0-beta.7.4/BMS-Glass.exe",
-  "sha256": "8d99c8d12233ff9f4eef8120e4dc006c81b0a22090bc77e45788b013b074dca4",
-  "setup_url": "https://raw.githubusercontent.com/FuchyBe/BMS-CPD-releases/main/v1.0.0-beta.7.4/BMS-Glass-Setup-1.0.0-beta.7.4.exe",
-  "setup_sha256": "c846be609b52193bfc2fd4186a18cac2e5b2f1c48f295cca6c82c822fa8dc536",
-  "notes": "1.0.0-beta.7.4 : liaison avec la console BMS Glass Controller (optionnelle : sans invitation, aucun appel réseau) — l'invitation du contrôleur se colle une fois dans SET › ESCADRILLE › Glass Controller ; PDC sur le CPD et le PAD : bandeau déplaçable avec ACK (« reçu »), puis la clairance avec WILCO ou UNABLE, rangée sous BRIEF › PDC ; une révision remplace la précédente, la réponse du leader vaut pour le flight, et une réponse donnée hors ligne part au retour de la liaison ; urgences transmises à la console, mention GCI ONLINE sur la page URGENCE quand un contrôleur GCI/AWACS est en poste ; fichiers .cpd de la console acceptés ; BMS-Glass-Diag : enregistreur de perfs (décollages et atterrissages F-15C / F-16 dans bms-glass-perfs.xlsx, protocole guidé, bouton ARRÊT COMPLET) ; manuels FR et EN à jour.",
-  "date": "2026-11-23",
+  "version": "1.0.0-beta.8",
+  "url": "https://raw.githubusercontent.com/FuchyBe/BMS-CPD-releases/main/v1.0.0-beta.8/BMS-Glass.exe",
+  "sha256": "2ed56f6aeb953e083496cf234a3e684bbbe0d3c199bec539d7bce73a4f0fc123",
+  "setup_url": "https://raw.githubusercontent.com/FuchyBe/BMS-CPD-releases/main/v1.0.0-beta.8/BMS-Glass-Setup-1.0.0-beta.8.exe",
+  "setup_sha256": "c1a96776b9d7bbcd8bcf19cb0ccf8f1e55f02289a86f4dde2ac6cf0cdf4df718",
+  "notes": "1.0.0-beta.8 : DLINK réaliste sur le TSD et le SIT — mon vol en vert, les autres amis en bleu dans un rayon réglable (50 NM par défaut) et par catégorie, les ennemis seulement s'ils sont vus par un AWACS en vol, sinon par les radars de veille au sol, sinon aucun ; AWACS et ravitailleurs toujours visibles ; mode TOUT pour l'entraînement ; réglages sur la carte DLINK de l'administration. Nouvelle norme d'étiquettes, seul format désormais : indicatif abrégé (FA61), type court, altitude sur deux chiffres, détail adapté au zoom et au recouvrement, étiquettes stabilisées (plus de clignotement). Cible verrouillée affichée (crochets TGT, trait vers la cible) et partagée avec l'escadrille ; verrouillages des équipiers en pointillé. Console BMS Glass Controller : cible prioritaire désignée par le contrôleur (losange orange, si l'avion est dans ton image datalink), image retenue (PICTURE WITHHELD) tant que le package n'est pas authentifié, option PDC coupée côté console = « en attente » avec nouvel essai automatique. Nouvelle page BRIEF › PTS : points de précision et steerpoints de la DTC, lisibles sur la tablette ; saisie d'un point depuis la tablette et 9-line → PTS (écriture dans la DTC expérimentale, désactivée par défaut, rien n'est écrit sans SAVE). Écran étendu : correction d'un blocage de la couche tactile qui rendait l'écran noir, avec récupération automatique et journal. Lecture automatique du plan Link 16 de la mission. À confirmer en vol (retours bienvenus) : amis en vert sur un vol à plusieurs, radars de veille au sol, écriture dans la DTC ; la correction de l'écran noir n'a été confirmée que sur un vol.",
+  "date": "2026-11-24",
   "changelog": [
+    {
+      "version": "1.0.0-beta.8",
+      "date": "2026-11-24",
+      "notes": "1.0.0-beta.8 : DLINK réaliste sur le TSD et le SIT — mon vol en vert, les autres amis en bleu dans un rayon réglable (50 NM par défaut) et par catégorie, les ennemis seulement s'ils sont vus par un AWACS en vol, sinon par les radars de veille au sol, sinon aucun ; AWACS et ravitailleurs toujours visibles ; mode TOUT pour l'entraînement ; réglages sur la carte DLINK de l'administration. Nouvelle norme d'étiquettes, seul format désormais : indicatif abrégé (FA61), type court, altitude sur deux chiffres, détail adapté au zoom et au recouvrement, étiquettes stabilisées (plus de clignotement). Cible verrouillée affichée (crochets TGT, trait vers la cible) et partagée avec l'escadrille ; verrouillages des équipiers en pointillé. Console BMS Glass Controller : cible prioritaire désignée par le contrôleur (losange orange, si l'avion est dans ton image datalink), image retenue (PICTURE WITHHELD) tant que le package n'est pas authentifié, option PDC coupée côté console = « en attente » avec nouvel essai automatique. Nouvelle page BRIEF › PTS : points de précision et steerpoints de la DTC, lisibles sur la tablette ; saisie d'un point depuis la tablette et 9-line → PTS (écriture dans la DTC expérimentale, désactivée par défaut, rien n'est écrit sans SAVE). Écran étendu : correction d'un blocage de la couche tactile qui rendait l'écran noir, avec récupération automatique et journal. Lecture automatique du plan Link 16 de la mission. À confirmer en vol (retours bienvenus) : amis en vert sur un vol à plusieurs, radars de veille au sol, écriture dans la DTC ; la correction de l'écran noir n'a été confirmée que sur un vol."
+    },
     {
       "version": "1.0.0-beta.7.4",
       "date": "2026-11-23",
@@ -201,14 +206,9 @@
       "version": "0.7.9-beta",
       "date": "2026-11-15",
       "notes": "Navigation BACK/RET, cartes d'aéroport, symbologie TSD, documents par mission, fin de mission"
-    },
-    {
-      "version": "0.7.8-beta",
-      "date": "2026-11-15",
-      "notes": "Manuel utilisateur illustré intégré (tablette, admin, menu Démarrer)"
     }
   ],
-  "server_setup_url": "https://raw.githubusercontent.com/FuchyBe/BMS-CPD-releases/main/v1.0.0-beta.7.4/BMS-Glass-Server-Setup-1.0.0-beta.7.4.exe",
-  "server_linux_url": "https://raw.githubusercontent.com/FuchyBe/BMS-CPD-releases/main/v1.0.0-beta.7.4/bms-glass-server-linux-amd64",
-  "server_linux_arm64_url": "https://raw.githubusercontent.com/FuchyBe/BMS-CPD-releases/main/v1.0.0-beta.7.4/bms-glass-server-linux-arm64"
+  "server_setup_url": "https://raw.githubusercontent.com/FuchyBe/BMS-CPD-releases/main/v1.0.0-beta.8/BMS-Glass-Server-Setup-1.0.0-beta.8.exe",
+  "server_linux_url": "https://raw.githubusercontent.com/FuchyBe/BMS-CPD-releases/main/v1.0.0-beta.8/bms-glass-server-linux-amd64",
+  "server_linux_arm64_url": "https://raw.githubusercontent.com/FuchyBe/BMS-CPD-releases/main/v1.0.0-beta.8/bms-glass-server-linux-arm64"
 }
